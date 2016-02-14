@@ -1,0 +1,6 @@
+<archimate:TriggeringRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="2d77c122"
+    name="Provides Asset"
+    source="archimate:BusinessFunction ../business/2fa79f57.xml#2fa79f57"
+    target="archimate:BusinessProcess ../business/ed73eb8f.xml#ed73eb8f"/>
