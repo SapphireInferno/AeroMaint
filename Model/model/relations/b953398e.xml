@@ -1,0 +1,6 @@
+<archimate:TriggeringRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="b953398e"
+    name="Maintains Assets for"
+    source="archimate:BusinessActor ../business/1835dfb0.xml#1835dfb0"
+    target="archimate:BusinessActor ../business/0fb7d4f8.xml#0fb7d4f8"/>

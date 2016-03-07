@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="65117421"
+    name="Forecast Long Term Asset Maintenance Demand"
+    documentation="Certain aircraft maintenance activities occur with a much lower frequency than others yet can be considerably more resource intensive. Intensive aircraft inspections, engine overhauls, or system refurbishments are examples of these types of activities. The resource demand arising from these activities must be planned in advance so that resources (funding, labour, contracts) can be in place. "/>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:TriggeringRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="2d77c122" name="Provides Asset">
-  <source xsi:type="archimate:BusinessFunction" href="../business/2fa79f57.xml#2fa79f57"/>
-  <target xsi:type="archimate:BusinessProcess" href="../business/ed73eb8f.xml#ed73eb8f"/>
-</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:SpecialisationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="540834b0"
+    source="archimate:Goal ../motivation/8f8d97e8.xml#8f8d97e8"
+    target="archimate:Goal ../motivation/e6ce59ee.xml#e6ce59ee"/>

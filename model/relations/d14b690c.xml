@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:AssociationRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="d14b690c">
-  <source xsi:type="archimate:Driver" href="../motivation/4d70177c.xml#4d70177c"/>
-  <target xsi:type="archimate:Stakeholder" href="../motivation/6266fee0.xml#6266fee0"/>
-</archimate:AssociationRelationship>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:InfluenceRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="51909fe6">
-  <source xsi:type="archimate:Goal" href="../motivation/73db1dff.xml#73db1dff"/>
-  <target xsi:type="archimate:Principle" href="../motivation/4b664582.xml#4b664582"/>
-</archimate:InfluenceRelationship>
