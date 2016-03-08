@@ -1,4 +1,2 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="c3fa8732"
-    name="PM Notification"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:DataObject xmlns:archimate="http://www.archimatetool.com/archimate" id="c3fa8732" name="PM Notification" documentation="This is a comment added by E. Aguilar on Mar 8, 2016"/>

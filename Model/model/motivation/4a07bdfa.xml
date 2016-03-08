@@ -1,5 +1,2 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="4a07bdfa"
-    name="Forecast Long-Term Asset Availability"
-    documentation="Aircraft periodically require intensive maintenance which withdraw them from service for long periods (months). This must be carefully managed so as to not adversley impact ability to provision aircraft to Air Force. "/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="4a07bdfa" name="Forecast Long-Term Asset Availability" documentation="Aircraft periodically require intensive maintenance which withdraw them from service for long periods (months). This must be carefully managed so as to not adversley impact ability to provision aircraft to Air Force. "/>
