@@ -1,2 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Goal xmlns:archimate="http://www.archimatetool.com/archimate" id="a5d7892f" name="Minimize mission cancellations due to unavailable aircraft"/>
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="a5d7892f"
+    name="Minimize mission cancellations due to unavailable aircraft"/>

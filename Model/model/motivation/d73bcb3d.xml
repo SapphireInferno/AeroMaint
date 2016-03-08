@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Principle xmlns:archimate="http://www.archimatetool.com/archimate" id="d73bcb3d" name="Mission Priority" documentation="Provision of the overall capability and accomplishment of specific tasked mission is essential. The consequences of failure are severe. (High penalty for unmet demand)"/>
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="d73bcb3d"
+    name="Mission Priority"
+    documentation="Provision of the overall capability and accomplishment of specific tasked mission is essential. The consequences of failure are severe. (High penalty for unmet demand)"/>

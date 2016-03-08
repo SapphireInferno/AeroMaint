@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:SpecialisationRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="ae9a0abc">
-  <source xsi:type="archimate:Goal" href="../motivation/a5d7892f.xml#a5d7892f"/>
-  <target xsi:type="archimate:Goal" href="../motivation/e6ce59ee.xml#e6ce59ee"/>
-</archimate:SpecialisationRelationship>
+<archimate:SpecialisationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ae9a0abc"
+    source="archimate:Goal ../motivation/a5d7892f.xml#a5d7892f"
+    target="archimate:Goal ../motivation/e6ce59ee.xml#e6ce59ee"/>

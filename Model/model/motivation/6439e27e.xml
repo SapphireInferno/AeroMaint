@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Driver xmlns:archimate="http://www.archimatetool.com/archimate" id="6439e27e" name="Web Applications" documentation="User access to system from within web browser and without requiring local client install."/>
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="6439e27e"
+    name="Web Applications"
+    documentation="User access to system from within web browser and without requiring local client install."/>

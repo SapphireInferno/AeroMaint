@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:DataObject xmlns:archimate="http://www.archimatetool.com/archimate" id="1a102785" name="E. Aguilar" documentation="This is a comment added by E. Aguilar on Mar 8, 2016"/>
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="1a102785"
+    name="E. Aguilar"
+    documentation="This is a comment added by E. Aguilar on Mar 8, 2016&#xD;&#xA;&#xD;&#xA;More details from Evan added at 10:21 AM"/>
