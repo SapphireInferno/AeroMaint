@@ -2,12 +2,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f3aef8a9"
-    name="3A Business Motivation -Subview, Inability to Perform Weekly Forecasts">
+    name="3A Motiv -Subview, Inability to Perform Weekly Forecasts">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5af3e818"
       textAlignment="2"
-      archimateElement="archimate:Goal ../motivation/b19fe65e.xml#b19fe65e">
+      archimateElement="archimate:Goal ../../motivation/b19fe65e.xml#b19fe65e">
     <bounds
         x="420"
         y="72"

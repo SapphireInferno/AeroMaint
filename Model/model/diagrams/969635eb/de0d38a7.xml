@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="de0d38a7"
+    name="2A Motiv -Subview, Absense of Automated Method to Update Annual Estimates">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6db9233e"
+      textAlignment="2"
+      archimateElement="archimate:Goal ../../motivation/b19fe65e.xml#b19fe65e">
+    <bounds
+        x="420"
+        y="72"
+        width="200"
+        height="55"/>
+  </children>
+</archimate:ArchimateDiagramModel>

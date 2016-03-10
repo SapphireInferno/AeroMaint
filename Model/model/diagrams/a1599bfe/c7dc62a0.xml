@@ -1,0 +1,109 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="c7dc62a0"
+    name="4C1 AppView - As-Is - Bad User Experience for Maintenance Shift Supervisor"
+    viewpoint="2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5478e7c9"
+      textAlignment="2"
+      archimateElement="archimate:DataObject ../../application/c3fa8732.xml#c3fa8732">
+    <bounds
+        x="564"
+        y="156"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="eb711672"
+      textAlignment="2"
+      archimateElement="archimate:DataObject ../../application/4007f513.xml#4007f513">
+    <bounds
+        x="552"
+        y="300"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="81af07a4"
+      textAlignment="2"
+      targetConnections="#635e68e7"
+      archimateElement="archimate:DataObject ../../application/c4702729.xml#c4702729">
+    <bounds
+        x="281"
+        y="468"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2de65b1a"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationComponent ../../application/9d7af710.xml#9d7af710">
+    <bounds
+        x="96"
+        y="300"
+        width="200"
+        height="80"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="635e68e7"
+        source="#2de65b1a"
+        target="#81af07a4"
+        relationship="archimate:AccessRelationship ../../relations/1e505c0d.xml#1e505c0d"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="72cd694a"
+        source="#2de65b1a"
+        target="#fc8690f9"
+        relationship="archimate:AssignmentRelationship ../../relations/0ee2d589.xml#0ee2d589"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="83515947"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationComponent ../../application/46aaf8ac.xml#46aaf8ac">
+    <bounds
+        x="312"
+        y="120"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fc8690f9"
+      textAlignment="2"
+      targetConnections="#72cd694a"
+      archimateElement="archimate:BusinessProcess ../../business/25743613.xml#25743613">
+    <bounds
+        x="36"
+        y="192"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="dafbf4ff"
+      textAlignment="2"
+      archimateElement="archimate:DataObject ../../application/1a102785.xml#1a102785">
+    <bounds
+        x="876"
+        y="108"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="400d1b23"
+      textAlignment="2"
+      archimateElement="archimate:DataObject ../../application/27a1e98b.xml#27a1e98b">
+    <bounds
+        x="876"
+        y="235"
+        width="200"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>

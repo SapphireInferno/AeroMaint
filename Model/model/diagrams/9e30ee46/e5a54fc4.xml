@@ -8,7 +8,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9be7b58d"
       textAlignment="2"
-      archimateElement="archimate:BusinessActor ../business/b702ed09.xml#b702ed09">
+      archimateElement="archimate:BusinessActor ../../business/b702ed09.xml#b702ed09">
     <bounds
         x="48"
         y="60"
@@ -20,7 +20,7 @@
       id="0864da4c"
       textAlignment="2"
       targetConnections="#71a7def0 #b82195a4"
-      archimateElement="archimate:BusinessActor ../business/1835dfb0.xml#1835dfb0">
+      archimateElement="archimate:BusinessActor ../../business/1835dfb0.xml#1835dfb0">
     <bounds
         x="384"
         y="168"
@@ -32,7 +32,7 @@
         textPosition="0"
         source="#0864da4c"
         target="#e5d314c0"
-        relationship="archimate:TriggeringRelationship ../relations/b953398e.xml#b953398e">
+        relationship="archimate:TriggeringRelationship ../../relations/b953398e.xml#b953398e">
       <bendpoints
           startX="-120"
           startY="-3"
@@ -43,7 +43,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="09d1e06c"
       textAlignment="2"
-      archimateElement="archimate:BusinessActor ../business/f23ae96c.xml#f23ae96c">
+      archimateElement="archimate:BusinessActor ../../business/f23ae96c.xml#f23ae96c">
     <bounds
         x="503"
         y="276"
@@ -55,7 +55,7 @@
         textPosition="0"
         source="#09d1e06c"
         target="#0864da4c"
-        relationship="archimate:TriggeringRelationship ../relations/1bedf767.xml#1bedf767">
+        relationship="archimate:TriggeringRelationship ../../relations/1bedf767.xml#1bedf767">
       <bendpoints
           startX="-119"
           startY="-27"
@@ -67,7 +67,7 @@
       id="162803e7"
       textAlignment="2"
       targetConnections="#511b5f4d"
-      archimateElement="archimate:BusinessActor ../business/c48e2210.xml#c48e2210">
+      archimateElement="archimate:BusinessActor ../../business/c48e2210.xml#c48e2210">
     <bounds
         x="503"
         y="372"
@@ -79,7 +79,7 @@
         textPosition="0"
         source="#162803e7"
         target="#0864da4c"
-        relationship="archimate:TriggeringRelationship ../relations/79629d5d.xml#79629d5d">
+        relationship="archimate:TriggeringRelationship ../../relations/79629d5d.xml#79629d5d">
       <bendpoints
           startX="-143"
           startY="-27"
@@ -91,7 +91,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f67e74ea"
       textAlignment="2"
-      archimateElement="archimate:BusinessActor ../business/c44828c4.xml#c44828c4">
+      archimateElement="archimate:BusinessActor ../../business/c44828c4.xml#c44828c4">
     <bounds
         x="622"
         y="468"
@@ -103,7 +103,7 @@
         textPosition="0"
         source="#f67e74ea"
         target="#162803e7"
-        relationship="archimate:TriggeringRelationship ../relations/b02cc6a9.xml#b02cc6a9">
+        relationship="archimate:TriggeringRelationship ../../relations/b02cc6a9.xml#b02cc6a9">
       <bendpoints
           startX="-130"
           startY="-3"
@@ -116,7 +116,7 @@
       id="e5d314c0"
       textAlignment="2"
       targetConnections="#a2902cb5"
-      archimateElement="archimate:BusinessActor ../business/0fb7d4f8.xml#0fb7d4f8">
+      archimateElement="archimate:BusinessActor ../../business/0fb7d4f8.xml#0fb7d4f8">
     <bounds
         x="264"
         y="60"

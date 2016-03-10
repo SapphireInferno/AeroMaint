@@ -1,16 +1,17 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="f1b56598"
-    name="1A Business Motivation - Subview, Lack of Demand Data">
+    id="709286dd"
+    name="5A Motiv -Subview, Absence of Single Point of Data Aggregation to Aid in Decision Making"
+    viewpoint="22">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="e2447273"
+      id="926ceaea"
       textAlignment="2"
-      archimateElement="archimate:Goal ../motivation/b19fe65e.xml#b19fe65e">
+      archimateElement="archimate:Goal ../../motivation/b19fe65e.xml#b19fe65e">
     <bounds
-        x="408"
-        y="60"
+        x="420"
+        y="72"
         width="200"
         height="55"/>
   </children>

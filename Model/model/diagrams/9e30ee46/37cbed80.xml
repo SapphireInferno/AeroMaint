@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a169c453"
       textAlignment="2"
-      archimateElement="archimate:BusinessFunction ../business/ec9972b1.xml#ec9972b1">
+      archimateElement="archimate:BusinessFunction ../../business/ec9972b1.xml#ec9972b1">
     <bounds
         x="192"
         y="36"
@@ -17,7 +17,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3f0baf12"
         textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../business/8f4d822f.xml#8f4d822f">
+        archimateElement="archimate:BusinessProcess ../../business/8f4d822f.xml#8f4d822f">
       <bounds
           x="24"
           y="72"
@@ -28,21 +28,21 @@
           id="3aeafdbf"
           source="#3f0baf12"
           target="#cdd6ea6d"
-          relationship="archimate:FlowRelationship ../relations/f0561469.xml#f0561469"/>
+          relationship="archimate:FlowRelationship ../../relations/f0561469.xml#f0561469"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="1c437877"
           textPosition="0"
           source="#3f0baf12"
           target="#da4010ff"
-          relationship="archimate:TriggeringRelationship ../relations/f34fe97e.xml#f34fe97e"/>
+          relationship="archimate:TriggeringRelationship ../../relations/f34fe97e.xml#f34fe97e"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="cdd6ea6d"
         textAlignment="2"
         targetConnections="#3aeafdbf #bc968d14"
-        archimateElement="archimate:BusinessProcess ../business/ed73eb8f.xml#ed73eb8f">
+        archimateElement="archimate:BusinessProcess ../../business/ed73eb8f.xml#ed73eb8f">
       <bounds
           x="300"
           y="72"
@@ -55,7 +55,7 @@
       id="da4010ff"
       textAlignment="2"
       targetConnections="#1c437877"
-      archimateElement="archimate:BusinessFunction ../business/2fa79f57.xml#2fa79f57">
+      archimateElement="archimate:BusinessFunction ../../business/2fa79f57.xml#2fa79f57">
     <bounds
         x="192"
         y="324"
@@ -67,7 +67,7 @@
         textPosition="0"
         source="#da4010ff"
         target="#cdd6ea6d"
-        relationship="archimate:TriggeringRelationship ../relations/2d77c122.xml#2d77c122"/>
+        relationship="archimate:TriggeringRelationship ../../relations/2d77c122.xml#2d77c122"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="df068b3c"

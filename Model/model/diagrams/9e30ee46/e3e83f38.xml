@@ -9,7 +9,7 @@
       id="9eface77"
       textAlignment="2"
       targetConnections="#bf2c5c23 #4efc885f"
-      archimateElement="archimate:Stakeholder ../motivation/6266fee0.xml#6266fee0">
+      archimateElement="archimate:Stakeholder ../../motivation/6266fee0.xml#6266fee0">
     <bounds
         x="156"
         y="24"
@@ -20,7 +20,7 @@
         id="9ad20828"
         source="#9eface77"
         target="#fbe8966f"
-        relationship="archimate:AssociationRelationship ../relations/5be4a969.xml#5be4a969">
+        relationship="archimate:AssociationRelationship ../../relations/5be4a969.xml#5be4a969">
       <bendpoints
           startX="228"
           startY="57"
@@ -32,13 +32,13 @@
         id="6a0c4083"
         source="#9eface77"
         target="#a20e4446"
-        relationship="archimate:AssociationRelationship ../relations/c211cd56.xml#c211cd56"/>
+        relationship="archimate:AssociationRelationship ../../relations/c211cd56.xml#c211cd56"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="fcbf8cd5"
         source="#9eface77"
         target="#7581c88e"
-        relationship="archimate:AssociationRelationship ../relations/a54a7650.xml#a54a7650">
+        relationship="archimate:AssociationRelationship ../../relations/a54a7650.xml#a54a7650">
       <bendpoints
           startY="154"
           endX="-186"
@@ -49,7 +49,7 @@
         id="f51ba502"
         source="#9eface77"
         target="#f245f6a7"
-        relationship="archimate:AssociationRelationship ../relations/122c8fd8.xml#122c8fd8">
+        relationship="archimate:AssociationRelationship ../../relations/122c8fd8.xml#122c8fd8">
       <bendpoints
           startX="12"
           startY="142"
@@ -61,7 +61,7 @@
         id="d204571c"
         source="#9eface77"
         target="#242c6ac3"
-        relationship="archimate:AssociationRelationship ../relations/95377ddb.xml#95377ddb">
+        relationship="archimate:AssociationRelationship ../../relations/95377ddb.xml#95377ddb">
       <bendpoints
           startY="129"
           endX="-726"
@@ -73,7 +73,7 @@
       id="e743759a"
       textAlignment="2"
       targetConnections="#c50f423f"
-      archimateElement="archimate:Stakeholder ../motivation/17911963.xml#17911963">
+      archimateElement="archimate:Stakeholder ../../motivation/17911963.xml#17911963">
     <bounds
         x="1692"
         y="24"
@@ -84,7 +84,7 @@
         id="df75fa7f"
         source="#e743759a"
         target="#0b0107aa"
-        relationship="archimate:AssociationRelationship ../relations/03cf1f0a.xml#03cf1f0a">
+        relationship="archimate:AssociationRelationship ../../relations/03cf1f0a.xml#03cf1f0a">
       <bendpoints
           startY="69"
           endX="-72"
@@ -95,7 +95,7 @@
         id="d7fb88d7"
         source="#e743759a"
         target="#38599728"
-        relationship="archimate:AssociationRelationship ../relations/25b56807.xml#25b56807">
+        relationship="archimate:AssociationRelationship ../../relations/25b56807.xml#25b56807">
       <bendpoints
           startX="-12"
           startY="129"
@@ -112,7 +112,7 @@
         id="daee2a3a"
         source="#e743759a"
         target="#3d99fa26"
-        relationship="archimate:AssociationRelationship ../relations/581dee84.xml#581dee84">
+        relationship="archimate:AssociationRelationship ../../relations/581dee84.xml#581dee84">
       <bendpoints
           startX="-24"
           startY="237"
@@ -125,7 +125,7 @@
       id="0b0107aa"
       textAlignment="2"
       targetConnections="#df75fa7f"
-      archimateElement="archimate:Driver ../motivation/b7fb0a30.xml#b7fb0a30">
+      archimateElement="archimate:Driver ../../motivation/b7fb0a30.xml#b7fb0a30">
     <bounds
         x="1800"
         y="87"
@@ -136,7 +136,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5a738b49"
       textAlignment="2"
-      archimateElement="archimate:Driver ../motivation/2191f9e0.xml#2191f9e0">
+      archimateElement="archimate:Driver ../../motivation/2191f9e0.xml#2191f9e0">
     <bounds
         x="315"
         y="120"
@@ -147,7 +147,7 @@
         id="bf2c5c23"
         source="#5a738b49"
         target="#9eface77"
-        relationship="archimate:AssociationRelationship ../relations/09402668.xml#09402668">
+        relationship="archimate:AssociationRelationship ../../relations/09402668.xml#09402668">
       <bendpoints
           startX="8"
           startY="-41"
@@ -160,7 +160,7 @@
       id="fbe8966f"
       textAlignment="2"
       targetConnections="#9ad20828"
-      archimateElement="archimate:Driver ../motivation/930b9343.xml#930b9343">
+      archimateElement="archimate:Driver ../../motivation/930b9343.xml#930b9343">
     <bounds
         x="455"
         y="120"
@@ -172,7 +172,7 @@
       id="cce582fc"
       textAlignment="2"
       targetConnections="#eee88350"
-      archimateElement="archimate:Goal ../motivation/347bd988.xml#347bd988">
+      archimateElement="archimate:Goal ../../motivation/347bd988.xml#347bd988">
     <bounds
         x="1752"
         y="323"
@@ -183,7 +183,7 @@
         id="c50f423f"
         source="#cce582fc"
         target="#e743759a"
-        relationship="archimate:AssociationRelationship ../relations/42092c27.xml#42092c27">
+        relationship="archimate:AssociationRelationship ../../relations/42092c27.xml#42092c27">
       <bendpoints
           startX="-91"
           startY="-146"
@@ -196,7 +196,7 @@
       id="2c13075a"
       textAlignment="2"
       targetConnections="#7dfeb73c #0da80d45"
-      archimateElement="archimate:Goal ../motivation/8acc5463.xml#8acc5463">
+      archimateElement="archimate:Goal ../../motivation/8acc5463.xml#8acc5463">
     <bounds
         x="1332"
         y="242"
@@ -207,7 +207,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="629e94c7"
       textAlignment="2"
-      archimateElement="archimate:Constraint ../motivation/0a6955f2.xml#0a6955f2">
+      archimateElement="archimate:Constraint ../../motivation/0a6955f2.xml#0a6955f2">
     <bounds
         x="1800"
         y="240"
@@ -218,7 +218,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d7860805"
       textAlignment="2"
-      archimateElement="archimate:Driver ../motivation/4d70177c.xml#4d70177c">
+      archimateElement="archimate:Driver ../../motivation/4d70177c.xml#4d70177c">
     <bounds
         x="599"
         y="120"
@@ -229,7 +229,7 @@
         id="4efc885f"
         source="#d7860805"
         target="#9eface77"
-        relationship="archimate:AssociationRelationship ../relations/d14b690c.xml#d14b690c">
+        relationship="archimate:AssociationRelationship ../../relations/d14b690c.xml#d14b690c">
       <bendpoints
           startX="12"
           startY="-41"
@@ -243,7 +243,7 @@
       textAlignment="2"
       targetConnections="#1cb50dc1 #6a0c4083"
       fillColor="#ccccff"
-      archimateElement="archimate:Constraint ../motivation/800cfd82.xml#800cfd82">
+      archimateElement="archimate:Constraint ../../motivation/800cfd82.xml#800cfd82">
     <bounds
         x="24"
         y="240"
@@ -256,7 +256,7 @@
       textAlignment="2"
       targetConnections="#87afe3cc"
       fillColor="#ccccff"
-      archimateElement="archimate:Principle ../motivation/4b664582.xml#4b664582">
+      archimateElement="archimate:Principle ../../motivation/4b664582.xml#4b664582">
     <bounds
         x="24"
         y="336"
@@ -267,14 +267,14 @@
         id="1cb50dc1"
         source="#02cac80b"
         target="#a20e4446"
-        relationship="archimate:InfluenceRelationship ../relations/0c9d665e.xml#0c9d665e"/>
+        relationship="archimate:InfluenceRelationship ../../relations/0c9d665e.xml#0c9d665e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4ce630e6"
       textAlignment="2"
       targetConnections="#1b579785 #46896f46 #6ef7aa74"
-      archimateElement="archimate:Goal ../motivation/e6745428.xml#e6745428">
+      archimateElement="archimate:Goal ../../motivation/e6745428.xml#e6745428">
     <bounds
         x="1267"
         y="410"
@@ -285,7 +285,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="666a03c5"
       textAlignment="2"
-      archimateElement="archimate:Requirement ../motivation/b2da726f.xml#b2da726f">
+      archimateElement="archimate:Requirement ../../motivation/b2da726f.xml#b2da726f">
     <bounds
         x="26"
         y="528"
@@ -296,14 +296,14 @@
         id="e12fd274"
         source="#666a03c5"
         target="#00344e20"
-        relationship="archimate:RealisationRelationship ../relations/6ef1a6c8.xml#6ef1a6c8"/>
+        relationship="archimate:RealisationRelationship ../../relations/6ef1a6c8.xml#6ef1a6c8"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="00344e20"
       textAlignment="2"
       targetConnections="#e12fd274"
-      archimateElement="archimate:Goal ../motivation/73db1dff.xml#73db1dff">
+      archimateElement="archimate:Goal ../../motivation/73db1dff.xml#73db1dff">
     <bounds
         x="24"
         y="432"
@@ -314,13 +314,13 @@
         id="87afe3cc"
         source="#00344e20"
         target="#02cac80b"
-        relationship="archimate:InfluenceRelationship ../relations/51909fe6.xml#51909fe6"/>
+        relationship="archimate:InfluenceRelationship ../../relations/51909fe6.xml#51909fe6"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e08a486c"
       textAlignment="2"
-      archimateElement="archimate:Requirement ../motivation/4a07bdfa.xml#4a07bdfa">
+      archimateElement="archimate:Requirement ../../motivation/4a07bdfa.xml#4a07bdfa">
     <bounds
         x="1351"
         y="572"
@@ -331,7 +331,7 @@
         id="46896f46"
         source="#e08a486c"
         target="#4ce630e6"
-        relationship="archimate:RealisationRelationship ../relations/fa0d15d3.xml#fa0d15d3">
+        relationship="archimate:RealisationRelationship ../../relations/fa0d15d3.xml#fa0d15d3">
       <bendpoints
           startX="-138"
           startY="3"
@@ -343,7 +343,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="90598c3d"
       textAlignment="2"
-      archimateElement="archimate:Requirement ../motivation/c36b8818.xml#c36b8818">
+      archimateElement="archimate:Requirement ../../motivation/c36b8818.xml#c36b8818">
     <bounds
         x="1416"
         y="323"
@@ -354,7 +354,7 @@
         id="7dfeb73c"
         source="#90598c3d"
         target="#2c13075a"
-        relationship="archimate:RealisationRelationship ../relations/453eaa23.xml#453eaa23">
+        relationship="archimate:RealisationRelationship ../../relations/453eaa23.xml#453eaa23">
       <bendpoints
           startX="-133"
           startY="-3"
@@ -366,7 +366,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2ed1f52e"
       textAlignment="2"
-      archimateElement="archimate:Driver ../motivation/2a8736aa.xml#2a8736aa">
+      archimateElement="archimate:Driver ../../motivation/2a8736aa.xml#2a8736aa">
     <bounds
         x="1464"
         y="87"
@@ -377,7 +377,7 @@
         id="ca106271"
         source="#2ed1f52e"
         target="#035f9861"
-        relationship="archimate:AssociationRelationship ../relations/8519af15.xml#8519af15">
+        relationship="archimate:AssociationRelationship ../../relations/8519af15.xml#8519af15">
       <bendpoints
           startX="-106"
           startY="-2"
@@ -389,7 +389,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1332d9bc"
       textAlignment="2"
-      archimateElement="archimate:Driver ../motivation/c4039d86.xml#c4039d86">
+      archimateElement="archimate:Driver ../../motivation/c4039d86.xml#c4039d86">
     <bounds
         x="1464"
         y="159"
@@ -400,7 +400,7 @@
         id="e64f12c8"
         source="#1332d9bc"
         target="#035f9861"
-        relationship="archimate:AssociationRelationship ../relations/4f243d97.xml#4f243d97">
+        relationship="archimate:AssociationRelationship ../../relations/4f243d97.xml#4f243d97">
       <bendpoints
           startX="-119"
           startY="-3"
@@ -411,7 +411,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c74779b5"
       textAlignment="2"
-      archimateElement="archimate:Requirement ../motivation/3e8861e3.xml#3e8861e3">
+      archimateElement="archimate:Requirement ../../motivation/3e8861e3.xml#3e8861e3">
     <bounds
         x="599"
         y="331"
@@ -422,7 +422,7 @@
         id="c75ca974"
         source="#c74779b5"
         target="#f245f6a7"
-        relationship="archimate:RealisationRelationship ../relations/05b42d69.xml#05b42d69">
+        relationship="archimate:RealisationRelationship ../../relations/05b42d69.xml#05b42d69">
       <bendpoints
           startX="-148"
           startY="-10"
@@ -435,7 +435,7 @@
       id="3d99fa26"
       textAlignment="2"
       targetConnections="#daee2a3a"
-      archimateElement="archimate:Goal ../motivation/e76b3d6f.xml#e76b3d6f">
+      archimateElement="archimate:Goal ../../motivation/e76b3d6f.xml#e76b3d6f">
     <bounds
         x="1692"
         y="491"
@@ -447,7 +447,7 @@
       id="7581c88e"
       textAlignment="2"
       targetConnections="#01a82f5b #fcbf8cd5"
-      archimateElement="archimate:Constraint ../motivation/dba45dfb.xml#dba45dfb">
+      archimateElement="archimate:Constraint ../../motivation/dba45dfb.xml#dba45dfb">
     <bounds
         x="264"
         y="240"
@@ -458,7 +458,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="301a9bf5"
       textAlignment="2"
-      archimateElement="archimate:Requirement ../motivation/d477f966.xml#d477f966">
+      archimateElement="archimate:Requirement ../../motivation/d477f966.xml#d477f966">
     <bounds
         x="264"
         y="432"
@@ -469,13 +469,13 @@
         id="a323c0ed"
         source="#301a9bf5"
         target="#9d4f25f8"
-        relationship="archimate:RealisationRelationship ../relations/c1a6f6cd.xml#c1a6f6cd"/>
+        relationship="archimate:RealisationRelationship ../../relations/c1a6f6cd.xml#c1a6f6cd"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f33b43d3"
       textAlignment="2"
-      archimateElement="archimate:Requirement ../motivation/65117421.xml#65117421">
+      archimateElement="archimate:Requirement ../../motivation/65117421.xml#65117421">
     <bounds
         x="1351"
         y="494"
@@ -486,7 +486,7 @@
         id="1b579785"
         source="#f33b43d3"
         target="#4ce630e6"
-        relationship="archimate:RealisationRelationship ../relations/d4ea79a3.xml#d4ea79a3">
+        relationship="archimate:RealisationRelationship ../../relations/d4ea79a3.xml#d4ea79a3">
       <bendpoints
           startX="-126"
           startY="-3"
@@ -499,7 +499,7 @@
       id="38599728"
       textAlignment="2"
       targetConnections="#d7fb88d7"
-      archimateElement="archimate:Driver ../motivation/6439e27e.xml#6439e27e">
+      archimateElement="archimate:Driver ../../motivation/6439e27e.xml#6439e27e">
     <bounds
         x="1800"
         y="159"
@@ -511,7 +511,7 @@
       id="242c6ac3"
       textAlignment="2"
       targetConnections="#c098672a #d204571c"
-      archimateElement="archimate:Principle ../motivation/d73bcb3d.xml#d73bcb3d">
+      archimateElement="archimate:Principle ../../motivation/d73bcb3d.xml#d73bcb3d">
     <bounds
         x="841"
         y="240"
@@ -523,7 +523,7 @@
       id="866c673a"
       textAlignment="2"
       targetConnections="#55493381 #53718463 #9bc34d05"
-      archimateElement="archimate:Goal ../motivation/e6ce59ee.xml#e6ce59ee">
+      archimateElement="archimate:Goal ../../motivation/e6ce59ee.xml#e6ce59ee">
     <bounds
         x="839"
         y="331"
@@ -534,14 +534,14 @@
         id="c098672a"
         source="#866c673a"
         target="#242c6ac3"
-        relationship="archimate:InfluenceRelationship ../relations/4854bd82.xml#4854bd82"/>
+        relationship="archimate:InfluenceRelationship ../../relations/4854bd82.xml#4854bd82"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c98c4630"
       textAlignment="2"
       targetConnections="#13ec2d6f"
-      archimateElement="archimate:Goal ../motivation/a5d7892f.xml#a5d7892f">
+      archimateElement="archimate:Goal ../../motivation/a5d7892f.xml#a5d7892f">
     <bounds
         x="925"
         y="414"
@@ -552,7 +552,7 @@
         id="55493381"
         source="#c98c4630"
         target="#866c673a"
-        relationship="archimate:SpecialisationRelationship ../relations/ae9a0abc.xml#ae9a0abc">
+        relationship="archimate:SpecialisationRelationship ../../relations/ae9a0abc.xml#ae9a0abc">
       <bendpoints
           startX="-138"
           startY="-8"
@@ -564,7 +564,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="656846ea"
       textAlignment="2"
-      archimateElement="archimate:Goal ../motivation/8f8d97e8.xml#8f8d97e8">
+      archimateElement="archimate:Goal ../../motivation/8f8d97e8.xml#8f8d97e8">
     <bounds
         x="924"
         y="567"
@@ -575,7 +575,7 @@
         id="53718463"
         source="#656846ea"
         target="#866c673a"
-        relationship="archimate:SpecialisationRelationship ../relations/540834b0.xml#540834b0">
+        relationship="archimate:SpecialisationRelationship ../../relations/540834b0.xml#540834b0">
       <bendpoints
           startX="-150"
           startY="-6"
@@ -587,7 +587,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c45e9cca"
       textAlignment="2"
-      archimateElement="archimate:Goal ../motivation/0a856d5c.xml#0a856d5c">
+      archimateElement="archimate:Goal ../../motivation/0a856d5c.xml#0a856d5c">
     <bounds
         x="924"
         y="639"
@@ -598,7 +598,7 @@
         id="9bc34d05"
         source="#c45e9cca"
         target="#866c673a"
-        relationship="archimate:SpecialisationRelationship ../relations/8192f784.xml#8192f784">
+        relationship="archimate:SpecialisationRelationship ../../relations/8192f784.xml#8192f784">
       <bendpoints
           startX="-162"
           startY="-6"
@@ -611,7 +611,7 @@
       id="035f9861"
       textAlignment="2"
       targetConnections="#ca106271 #e64f12c8"
-      archimateElement="archimate:Stakeholder ../motivation/abc4c22e.xml#abc4c22e">
+      archimateElement="archimate:Stakeholder ../../motivation/abc4c22e.xml#abc4c22e">
     <bounds
         x="1272"
         y="15"
@@ -622,7 +622,7 @@
         id="0da80d45"
         source="#035f9861"
         target="#2c13075a"
-        relationship="archimate:AssociationRelationship ../relations/e4407ca8.xml#e4407ca8">
+        relationship="archimate:AssociationRelationship ../../relations/e4407ca8.xml#e4407ca8">
       <bendpoints
           startY="119"
           endX="-66"
@@ -633,7 +633,7 @@
         id="6ef7aa74"
         source="#035f9861"
         target="#4ce630e6"
-        relationship="archimate:AssociationRelationship ../relations/a453d989.xml#a453d989">
+        relationship="archimate:AssociationRelationship ../../relations/a453d989.xml#a453d989">
       <bendpoints
           startX="-60"
           startY="203"
@@ -645,7 +645,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a80c11ad"
       textAlignment="2"
-      archimateElement="archimate:Requirement ../motivation/8b88e3a0.xml#8b88e3a0">
+      archimateElement="archimate:Requirement ../../motivation/8b88e3a0.xml#8b88e3a0">
     <bounds
         x="598"
         y="432"
@@ -656,7 +656,7 @@
         id="5d927c47"
         source="#a80c11ad"
         target="#f245f6a7"
-        relationship="archimate:RealisationRelationship ../relations/f0a2397e.xml#f0a2397e">
+        relationship="archimate:RealisationRelationship ../../relations/f0a2397e.xml#f0a2397e">
       <bendpoints
           startX="-160"
           startY="-2"
@@ -669,7 +669,7 @@
       id="f245f6a7"
       textAlignment="2"
       targetConnections="#c75ca974 #5d927c47 #f51ba502"
-      archimateElement="archimate:Goal ../motivation/222154bb.xml#222154bb">
+      archimateElement="archimate:Goal ../../motivation/222154bb.xml#222154bb">
     <bounds
         x="504"
         y="239"
@@ -681,7 +681,7 @@
       id="9d4f25f8"
       textAlignment="2"
       targetConnections="#a323c0ed"
-      archimateElement="archimate:Goal ../motivation/b19fe65e.xml#b19fe65e">
+      archimateElement="archimate:Goal ../../motivation/b19fe65e.xml#b19fe65e">
     <bounds
         x="268"
         y="336"
@@ -692,13 +692,13 @@
         id="01a82f5b"
         source="#9d4f25f8"
         target="#7581c88e"
-        relationship="archimate:InfluenceRelationship ../relations/61174769.xml#61174769"/>
+        relationship="archimate:InfluenceRelationship ../../relations/61174769.xml#61174769"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="30abfd3e"
       textAlignment="2"
-      archimateElement="archimate:Requirement ../motivation/0d0c90e2.xml#0d0c90e2">
+      archimateElement="archimate:Requirement ../../motivation/0d0c90e2.xml#0d0c90e2">
     <bounds
         x="1008"
         y="490"
@@ -709,7 +709,7 @@
         id="13ec2d6f"
         source="#30abfd3e"
         target="#c98c4630"
-        relationship="archimate:RealisationRelationship ../relations/10a2d219.xml#10a2d219">
+        relationship="archimate:RealisationRelationship ../../relations/10a2d219.xml#10a2d219">
       <bendpoints
           startX="-138"
           startY="-4"
@@ -721,7 +721,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ab524986"
       textAlignment="2"
-      archimateElement="archimate:Goal ../motivation/ed076628.xml#ed076628">
+      archimateElement="archimate:Goal ../../motivation/ed076628.xml#ed076628">
     <bounds
         x="1824"
         y="406"
@@ -732,7 +732,7 @@
         id="eee88350"
         source="#ab524986"
         target="#cce582fc"
-        relationship="archimate:SpecialisationRelationship ../relations/0fecae72.xml#0fecae72">
+        relationship="archimate:SpecialisationRelationship ../../relations/0fecae72.xml#0fecae72">
       <bendpoints
           startX="-114"
           startY="-2"
@@ -753,7 +753,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="131d8e6c"
         textAlignment="2"
-        archimateElement="archimate:Stakeholder ../motivation/b3777601.xml#b3777601">
+        archimateElement="archimate:Stakeholder ../../motivation/b3777601.xml#b3777601">
       <bounds
           x="24"
           y="36"
@@ -764,7 +764,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c3d20b79"
         textAlignment="2"
-        archimateElement="archimate:Driver ../motivation/bd948c9b.xml#bd948c9b">
+        archimateElement="archimate:Driver ../../motivation/bd948c9b.xml#bd948c9b">
       <bounds
           x="252"
           y="36"
@@ -775,7 +775,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b13ef589"
         textAlignment="2"
-        archimateElement="archimate:Goal ../motivation/e6e5e372.xml#e6e5e372">
+        archimateElement="archimate:Goal ../../motivation/e6e5e372.xml#e6e5e372">
       <bounds
           x="696"
           y="36"
@@ -786,7 +786,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5745801e"
         textAlignment="2"
-        archimateElement="archimate:Principle ../motivation/11321ca2.xml#11321ca2">
+        archimateElement="archimate:Principle ../../motivation/11321ca2.xml#11321ca2">
       <bounds
           x="924"
           y="36"
@@ -797,7 +797,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="4b1629a3"
         textAlignment="2"
-        archimateElement="archimate:Requirement ../motivation/3ccaf226.xml#3ccaf226">
+        archimateElement="archimate:Requirement ../../motivation/3ccaf226.xml#3ccaf226">
       <bounds
           x="1152"
           y="36"
@@ -808,7 +808,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="bb0bbcf7"
         textAlignment="2"
-        archimateElement="archimate:Constraint ../motivation/12e26b3c.xml#12e26b3c">
+        archimateElement="archimate:Constraint ../../motivation/12e26b3c.xml#12e26b3c">
       <bounds
           x="1380"
           y="36"
@@ -819,7 +819,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1ce27709"
         textAlignment="2"
-        archimateElement="archimate:Assessment ../motivation/3105b6bb.xml#3105b6bb">
+        archimateElement="archimate:Assessment ../../motivation/3105b6bb.xml#3105b6bb">
       <bounds
           x="475"
           y="36"
