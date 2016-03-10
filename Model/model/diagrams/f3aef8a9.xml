@@ -5,66 +5,8 @@
     name="3A Business Motivation -Subview, Inability to Perform Weekly Forecasts">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="3471dbf6"
-      textAlignment="2"
-      archimateElement="archimate:Requirement ../motivation/b2da726f.xml#b2da726f">
-    <bounds
-        x="178"
-        y="264"
-        width="199"
-        height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="36517915"
-        source="#3471dbf6"
-        target="#5f83657f"
-        relationship="archimate:RealisationRelationship ../relations/6ef1a6c8.xml#6ef1a6c8"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="5f83657f"
-      textAlignment="2"
-      targetConnections="#36517915"
-      archimateElement="archimate:Goal ../motivation/73db1dff.xml#73db1dff">
-    <bounds
-        x="176"
-        y="168"
-        width="204"
-        height="55"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="b5cac20f"
-      textAlignment="2"
-      archimateElement="archimate:Requirement ../motivation/d477f966.xml#d477f966">
-    <bounds
-        x="416"
-        y="168"
-        width="204"
-        height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="38770058"
-        source="#b5cac20f"
-        target="#5af3e818"
-        relationship="archimate:RealisationRelationship ../relations/c1a6f6cd.xml#c1a6f6cd"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="ba895eb3"
-      textAlignment="2"
-      archimateElement="archimate:Requirement ../motivation/8b88e3a0.xml#8b88e3a0">
-    <bounds
-        x="750"
-        y="168"
-        width="205"
-        height="55"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="5af3e818"
       textAlignment="2"
-      targetConnections="#38770058"
       archimateElement="archimate:Goal ../motivation/b19fe65e.xml#b19fe65e">
     <bounds
         x="420"
