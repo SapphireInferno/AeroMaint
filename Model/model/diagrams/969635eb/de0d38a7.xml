@@ -2,16 +2,87 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="de0d38a7"
-    name="2A Motiv -Subview, Absense of Automated Method to Update Annual Estimates">
+    name="2A Motiv -Subview, Absense of Automated Method to Update Annual Estimates"
+    connectionRouterType="1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="6db9233e"
+      id="84568616"
       textAlignment="2"
-      archimateElement="archimate:Goal ../../motivation/b19fe65e.xml#b19fe65e">
+      targetConnections="#c3e28819 #846223f9 #914b7039"
+      archimateElement="archimate:Goal ../../motivation/e6745428.xml#e6745428">
     <bounds
-        x="420"
-        y="72"
-        width="200"
+        x="103"
+        y="131"
+        width="204"
         height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="18bbd862"
+      textAlignment="2"
+      archimateElement="archimate:Requirement ../../motivation/4a07bdfa.xml#4a07bdfa">
+    <bounds
+        x="156"
+        y="300"
+        width="204"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c3e28819"
+        source="#18bbd862"
+        target="#84568616"
+        relationship="archimate:RealisationRelationship ../../relations/fa0d15d3.xml#fa0d15d3">
+      <bendpoints
+          startX="-138"
+          startY="3"
+          endX="-54"
+          endY="165"/>
+    </sourceConnections>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="36cc4046"
+      textAlignment="2"
+      archimateElement="archimate:Requirement ../../motivation/65117421.xml#65117421">
+    <bounds
+        x="204"
+        y="216"
+        width="204"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="846223f9"
+        source="#36cc4046"
+        target="#84568616"
+        relationship="archimate:RealisationRelationship ../../relations/d4ea79a3.xml#d4ea79a3">
+      <bendpoints
+          startX="-126"
+          startY="-3"
+          endX="-42"
+          endY="81"/>
+    </sourceConnections>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="76a9ec3a"
+      textAlignment="2"
+      archimateElement="archimate:Stakeholder ../../motivation/abc4c22e.xml#abc4c22e">
+    <bounds
+        x="12"
+        y="12"
+        width="193"
+        height="73"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="914b7039"
+        source="#76a9ec3a"
+        target="#84568616"
+        relationship="archimate:AssociationRelationship ../../relations/a453d989.xml#a453d989">
+      <bendpoints
+          startX="-60"
+          startY="203"
+          endX="-61"
+          endY="-183"/>
+    </sourceConnections>
   </children>
 </archimate:ArchimateDiagramModel>
