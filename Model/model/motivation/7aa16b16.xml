@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="7aa16b16"
-    name="Identify Aircraft for Missions"/>
+    name="Identify Aircraft for Missions"
+    documentation="As missions are of various types and have varying parameters for aircraft required, the specific preparations needed to supply a given aircraft for a given mission may differ. At any given time, Aircraft of a given Aircraft Type are in varying states of availability (available, available but with limitations, unavailable due to corrective maintenance, unavailable due to long duration preventive maintenance) and may have different states for the specific parameters required by a mission. This impacts the resources required in order to prepare a given aircraft for a given mission. "/>

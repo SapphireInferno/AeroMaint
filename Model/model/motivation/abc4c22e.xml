@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="abc4c22e"
-    name="Defence Materiel Group"/>
+    name="Defence Materiel Group"
+    documentation="An organization separate from the Air Force (and Army and Navy) which undertakes acquisition and controls external (contracted) support for military equipment."/>

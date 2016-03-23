@@ -1,0 +1,5 @@
+<archimate:CompositionRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="e2ea86bb"
+    source="archimate:Requirement ../motivation/80be0799.xml#80be0799"
+    target="archimate:Requirement ../motivation/80d840a6.xml#80d840a6"/>

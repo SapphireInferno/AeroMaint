@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="a5d7892f"
-    name="Minimize mission cancellations due to unavailable aircraft"/>
+    name="Minimize mission cancellations due to unavailablity aircraft"
+    documentation="One reason for failing to accomplish an assigned mission may be due to unavailability of an aircraft with which to accomplish the mission"/>

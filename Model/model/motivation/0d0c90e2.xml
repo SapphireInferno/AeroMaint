@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="0d0c90e2"
-    name="Manage Aircraft Availability"/>
+    name="Manage Aircraft Availability"
+    documentation="Sufficient numbers of aircraft must be maintained at an appropriate availabile status. At any given time, a suitable number of aircraft must be available (supply) to match the corresponding mission requirements assigned to the Squadron (demand)."/>

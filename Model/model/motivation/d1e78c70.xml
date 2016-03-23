@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="d1e78c70"
-    name="Operations Organization"/>
+    name="Operations Organization"
+    documentation="The operations organization at a Squadron is comprised of personnel such as pilots, loadmasters, airborne combat systems operators, etc. who plan and execute missions using a given aircraft type."/>

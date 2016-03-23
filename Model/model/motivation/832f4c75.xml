@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="832f4c75"
-    name="Maintenance Organization"/>
+    name="Maintenance Organization"
+    documentation="The maintenance organization at a Squadron is comprised of personnel such as engineers and technicians who execute necessary maintenance on aircraft assigned to a squadron in order to make the aircraft available for operations."/>

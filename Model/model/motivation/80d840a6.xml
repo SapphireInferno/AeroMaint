@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="80d840a6"
+    name="Forecast Dates of Required Performance Based Maintenance"
+    documentation="Some maintenance is executed relative to the accumulation of usage on the maintained item. (Perform task 'W' after each 'Z' operating hours/operating cycles/equipment starts/rotations)"/>
