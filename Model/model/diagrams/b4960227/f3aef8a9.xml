@@ -51,6 +51,12 @@
         source="#c8c6ce3b"
         target="#2e887b49"
         relationship="archimate:RealisationRelationship ../../relations/6ef1a6c8.xml#6ef1a6c8"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="698bcdc6"
+        source="#c8c6ce3b"
+        target="#86386bc6"
+        relationship="archimate:CompositionRelationship ../../relations/3440fda9.xml#3440fda9"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -407,8 +413,8 @@
       textAlignment="1"
       content="'Manage Labour Capacity' to be broken out to specific requirements... ie. manage individual absences, manage shift schedules, forecaset labour capacities...">
     <bounds
-        x="33"
-        y="492"
+        x="17"
+        y="756"
         width="185"
         height="114"/>
   </children>
@@ -422,5 +428,35 @@
         y="492"
         width="185"
         height="114"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f808367b"
+      textAlignment="2"
+      targetConnections="#22e503f5"
+      archimateElement="archimate:Requirement ../../motivation/4a92b478.xml#4a92b478">
+    <bounds
+        x="68"
+        y="677"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="86386bc6"
+      textAlignment="2"
+      targetConnections="#698bcdc6"
+      archimateElement="archimate:Requirement ../../motivation/73848ffc.xml#73848ffc">
+    <bounds
+        x="68"
+        y="564"
+        width="200"
+        height="80"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="22e503f5"
+        source="#86386bc6"
+        target="#f808367b"
+        relationship="archimate:CompositionRelationship ../../relations/a7cc1755.xml#a7cc1755"/>
   </children>
 </archimate:ArchimateDiagramModel>

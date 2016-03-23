@@ -1,0 +1,5 @@
+<archimate:AccessRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="faec220b"
+    source="archimate:BusinessActor ../business/f23ae96c.xml#f23ae96c"
+    target="archimate:BusinessObject ../business/be36fee3.xml#be36fee3"/>

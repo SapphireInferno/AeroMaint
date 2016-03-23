@@ -6,13 +6,243 @@
     viewpoint="22">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="926ceaea"
+      id="aa6e16e4"
       textAlignment="2"
+      targetConnections="#83fe2ccc"
+      archimateElement="archimate:Goal ../../motivation/a5d7892f.xml#a5d7892f">
+    <bounds
+        x="828"
+        y="48"
+        width="204"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1c6d0947"
+      textAlignment="2"
+      archimateElement="archimate:Requirement ../../motivation/0d0c90e2.xml#0d0c90e2">
+    <bounds
+        x="828"
+        y="155"
+        width="204"
+        height="60"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="2a88c8fb"
+        source="#1c6d0947"
+        target="#73888bb7"
+        relationship="archimate:CompositionRelationship ../../relations/f4b77e7c.xml#f4b77e7c"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="83fe2ccc"
+        source="#1c6d0947"
+        target="#aa6e16e4"
+        relationship="archimate:RealisationRelationship ../../relations/10a2d219.xml#10a2d219"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="3b75b550"
+        source="#1c6d0947"
+        target="#a98f7cc5"
+        relationship="archimate:CompositionRelationship ../../relations/e5119848.xml#e5119848"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a98f7cc5"
+      textAlignment="2"
+      targetConnections="#3b75b550"
+      archimateElement="archimate:Requirement ../../motivation/a8c9c03c.xml#a8c9c03c">
+    <bounds
+        x="1020"
+        y="324"
+        width="200"
+        height="80"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="aad0c793"
+        source="#a98f7cc5"
+        target="#bedd276d"
+        relationship="archimate:CompositionRelationship ../../relations/20cecd1c.xml#20cecd1c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="73888bb7"
+      textAlignment="2"
+      targetConnections="#2a88c8fb"
+      archimateElement="archimate:Requirement ../../motivation/73ba3c11.xml#73ba3c11">
+    <bounds
+        x="660"
+        y="324"
+        width="200"
+        height="80"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="05ca3315"
+        source="#73888bb7"
+        target="#3d64e6e4"
+        relationship="archimate:CompositionRelationship ../../relations/442f0c02.xml#442f0c02">
+      <bendpoints
+          startX="56"
+          startY="68"
+          endX="-88"
+          endY="-64"/>
+    </sourceConnections>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3d64e6e4"
+      textAlignment="2"
+      targetConnections="#05ca3315"
+      archimateElement="archimate:Requirement ../../motivation/21b9a06e.xml#21b9a06e">
+    <bounds
+        x="804"
+        y="456"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="bedd276d"
+      textAlignment="2"
+      targetConnections="#aad0c793"
+      archimateElement="archimate:Requirement ../../motivation/abc37bd2.xml#abc37bd2">
+    <bounds
+        x="1152"
+        y="456"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="45af05a9"
+      textAlignment="2"
+      fillColor="#ccccff"
+      archimateElement="archimate:Constraint ../../motivation/800cfd82.xml#800cfd82">
+    <bounds
+        x="24"
+        y="24"
+        width="204"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="5e6fe2bc"
+        source="#45af05a9"
+        target="#b300af69"
+        relationship="archimate:InfluenceRelationship ../../relations/33edc21a.xml#33edc21a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b300af69"
+      textAlignment="2"
+      targetConnections="#5e6fe2bc #64a11648"
+      fillColor="#ccccff"
+      archimateElement="archimate:Principle ../../motivation/4b664582.xml#4b664582">
+    <bounds
+        x="24"
+        y="132"
+        width="204"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="916f6734"
+      textAlignment="2"
+      archimateElement="archimate:Requirement ../../motivation/b2da726f.xml#b2da726f">
+    <bounds
+        x="26"
+        y="393"
+        width="199"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f4d09d68"
+        source="#916f6734"
+        target="#e33303a3"
+        relationship="archimate:RealisationRelationship ../../relations/6ef1a6c8.xml#6ef1a6c8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e33303a3"
+      textAlignment="2"
+      targetConnections="#f4d09d68"
+      archimateElement="archimate:Goal ../../motivation/73db1dff.xml#73db1dff">
+    <bounds
+        x="24"
+        y="240"
+        width="204"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="64a11648"
+        source="#e33303a3"
+        target="#b300af69"
+        relationship="archimate:InfluenceRelationship ../../relations/51909fe6.xml#51909fe6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="45d636ee"
+      textAlignment="2"
+      archimateElement="archimate:Constraint ../../motivation/dba45dfb.xml#dba45dfb">
+    <bounds
+        x="252"
+        y="24"
+        width="204"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="4b364803"
+        source="#45d636ee"
+        target="#cc3b6ad7"
+        relationship="archimate:InfluenceRelationship ../../relations/5bc0ccc8.xml#5bc0ccc8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9f5cafab"
+      textAlignment="2"
+      archimateElement="archimate:Requirement ../../motivation/d477f966.xml#d477f966">
+    <bounds
+        x="252"
+        y="393"
+        width="204"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="9d0bd9f3"
+        source="#9f5cafab"
+        target="#cc3b6ad7"
+        relationship="archimate:RealisationRelationship ../../relations/c1a6f6cd.xml#c1a6f6cd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="cc3b6ad7"
+      textAlignment="2"
+      targetConnections="#9d0bd9f3 #4b364803"
       archimateElement="archimate:Goal ../../motivation/b19fe65e.xml#b19fe65e">
     <bounds
-        x="420"
-        y="72"
+        x="252"
+        y="240"
         width="200"
         height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="93ed44a9"
+      textAlignment="1"
+      content="'Manage Labour Capacity' to be broken out to specific requirements... ie. manage individual absences, manage shift schedules, forecaset labour capacities...">
+    <bounds
+        x="33"
+        y="468"
+        width="185"
+        height="114"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="f3248b72"
+      textAlignment="1"
+      content="Similar to note to left. 'Manage Infrastructure Capacity' to be broken out.">
+    <bounds
+        x="267"
+        y="468"
+        width="185"
+        height="114"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -19,7 +19,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0864da4c"
       textAlignment="2"
-      targetConnections="#71a7def0 #b82195a4"
+      targetConnections="#b82195a4 #71a7def0"
       archimateElement="archimate:BusinessActor ../../business/1835dfb0.xml#1835dfb0">
     <bounds
         x="384"

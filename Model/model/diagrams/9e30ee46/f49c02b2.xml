@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f49c02b2"
-    name=". Stakeholders Hierarchy">
+    name=". Stakeholders Hierarchy"
+    viewpoint="22">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="13469364"
