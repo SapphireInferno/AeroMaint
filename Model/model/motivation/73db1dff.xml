@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="73db1dff"
-    name="Maximize Use of Internal Labour"/>
+    name="Minimize idle time of internal labour"
+    documentation="The the maximum extent possible, maintenance personnel should be actively engaged in maintenacne activities.  Time spent idle (not assigned to maintenance work, waiting) should be minimized."/>

@@ -241,7 +241,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a20e4446"
       textAlignment="2"
-      targetConnections="#1cb50dc1 #6a0c4083"
+      targetConnections="#6a0c4083"
       fillColor="#ccccff"
       archimateElement="archimate:Constraint ../../motivation/800cfd82.xml#800cfd82">
     <bounds
@@ -262,12 +262,6 @@
         y="336"
         width="204"
         height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1cb50dc1"
-        source="#02cac80b"
-        target="#a20e4446"
-        relationship="archimate:InfluenceRelationship ../../relations/0c9d665e.xml#0c9d665e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -446,7 +440,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7581c88e"
       textAlignment="2"
-      targetConnections="#01a82f5b #fcbf8cd5"
+      targetConnections="#fcbf8cd5"
       archimateElement="archimate:Constraint ../../motivation/dba45dfb.xml#dba45dfb">
     <bounds
         x="264"
@@ -651,24 +645,12 @@
         y="432"
         width="205"
         height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="5d927c47"
-        source="#a80c11ad"
-        target="#f245f6a7"
-        relationship="archimate:RealisationRelationship ../../relations/f0a2397e.xml#f0a2397e">
-      <bendpoints
-          startX="-160"
-          startY="-2"
-          endX="-66"
-          endY="188"/>
-    </sourceConnections>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f245f6a7"
       textAlignment="2"
-      targetConnections="#c75ca974 #5d927c47 #f51ba502"
+      targetConnections="#c75ca974 #f51ba502"
       archimateElement="archimate:Goal ../../motivation/222154bb.xml#222154bb">
     <bounds
         x="504"
@@ -687,12 +669,6 @@
         y="336"
         width="200"
         height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="01a82f5b"
-        source="#9d4f25f8"
-        target="#7581c88e"
-        relationship="archimate:InfluenceRelationship ../../relations/61174769.xml#61174769"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -739,92 +715,5 @@
           endX="-43"
           endY="81"/>
     </sourceConnections>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="2613d000"
-      name="Legend">
-    <bounds
-        x="293"
-        y="744"
-        width="1633"
-        height="145"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="131d8e6c"
-        textAlignment="2"
-        archimateElement="archimate:Stakeholder ../../motivation/b3777601.xml#b3777601">
-      <bounds
-          x="24"
-          y="36"
-          width="200"
-          height="80"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="c3d20b79"
-        textAlignment="2"
-        archimateElement="archimate:Driver ../../motivation/bd948c9b.xml#bd948c9b">
-      <bounds
-          x="252"
-          y="36"
-          width="200"
-          height="80"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="b13ef589"
-        textAlignment="2"
-        archimateElement="archimate:Goal ../../motivation/e6e5e372.xml#e6e5e372">
-      <bounds
-          x="696"
-          y="36"
-          width="200"
-          height="80"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="5745801e"
-        textAlignment="2"
-        archimateElement="archimate:Principle ../../motivation/11321ca2.xml#11321ca2">
-      <bounds
-          x="924"
-          y="36"
-          width="200"
-          height="80"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="4b1629a3"
-        textAlignment="2"
-        archimateElement="archimate:Requirement ../../motivation/3ccaf226.xml#3ccaf226">
-      <bounds
-          x="1152"
-          y="36"
-          width="200"
-          height="80"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="bb0bbcf7"
-        textAlignment="2"
-        archimateElement="archimate:Constraint ../../motivation/12e26b3c.xml#12e26b3c">
-      <bounds
-          x="1380"
-          y="36"
-          width="200"
-          height="80"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="1ce27709"
-        textAlignment="2"
-        archimateElement="archimate:Assessment ../../motivation/3105b6bb.xml#3105b6bb">
-      <bounds
-          x="475"
-          y="36"
-          width="200"
-          height="80"/>
-    </children>
   </children>
 </archimate:ArchimateDiagramModel>

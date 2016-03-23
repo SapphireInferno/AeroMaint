@@ -1,5 +1,5 @@
-<archimate:RealisationRelationship
+<archimate:InfluenceRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="f0a2397e"
-    source="archimate:Requirement ../motivation/8b88e3a0.xml#8b88e3a0"
+    id="6db43e21"
+    source="archimate:Constraint ../motivation/6bd278fd.xml#6bd278fd"
     target="archimate:Goal ../motivation/222154bb.xml#222154bb"/>

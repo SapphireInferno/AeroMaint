@@ -1,5 +1,5 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="dba45dfb"
-    name="Complex Infrastructure"
-    documentation="Aircraft maintenance makes use of expansive and specialized infrastructure such as hangars and infrastructure equipment (engine test facilities, repair workshops, etc)."/>
+    name="Limited Quantities of Complex Infrastructure"
+    documentation="Aircraft maintenance makes use of expansive and specialized infrastructure such as hangars and infrastructure equipment (engine test facilities, repair workshops, etc) only a limited number of these pieces of infrastructure are available for use."/>
