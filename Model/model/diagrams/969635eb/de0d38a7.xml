@@ -197,4 +197,15 @@
         width="200"
         height="80"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="765d0c7d"
+      textAlignment="1"
+      content="Need to include fact that aircraft are in separate fleet groups which have different useage rates.">
+    <bounds
+        x="804"
+        y="432"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
