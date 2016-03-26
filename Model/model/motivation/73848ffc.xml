@@ -1,5 +1,2 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="73848ffc"
-    name="Manage Shift Labour Capacity"
-    documentation="Technicians can be away from work for various reasons "/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="73848ffc" name="Manage Shift Labour Capacity" documentation="Technicians can be away from work for various reasons "/>

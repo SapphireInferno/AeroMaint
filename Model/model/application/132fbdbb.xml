@@ -1,4 +1,2 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="132fbdbb"
-    name="Managing Equipment and Technical Objects"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:ApplicationService xmlns:archimate="http://www.archimatetool.com/archimate" id="132fbdbb" name="Managing Equipment and Technical Objects"/>

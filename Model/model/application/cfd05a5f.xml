@@ -1,5 +1,2 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="cfd05a5f"
-    name="Office Document Creation"
-    documentation="Basic services provided by Microsoft Office (Word Processing and Spreadsheet)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:ApplicationService xmlns:archimate="http://www.archimatetool.com/archimate" id="cfd05a5f" name="Office Document Creation" documentation="Basic services provided by Microsoft Office (Word Processing and Spreadsheet)"/>

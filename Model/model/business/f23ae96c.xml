@@ -1,4 +1,2 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="f23ae96c"
-    name="Maintenance Planner"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessActor xmlns:archimate="http://www.archimatetool.com/archimate" id="f23ae96c" name="Maintenance Planner"/>

@@ -1,5 +1,2 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="97d4f889"
-    name="Forecast Dates of Required Calendar Time Maintenance"
-    documentation="Some maintenance is based on a simple calendar time logic. (Perform task 'X' after each 'Y' days/weeks/months)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="97d4f889" name="Forecast Dates of Required Calendar Time Maintenance" documentation="Some maintenance is based on a simple calendar time logic. (Perform task 'X' after each 'Y' days/weeks/months)"/>

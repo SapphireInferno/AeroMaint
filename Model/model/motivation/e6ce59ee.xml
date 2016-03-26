@@ -1,5 +1,2 @@
-<archimate:Goal
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="e6ce59ee"
-    name="Minimize Mission Failures"
-    documentation="Failure to accomplish an assigned mission can have severe consequences in the military context. Failures to accomplish assigned missions must therefore be minimized."/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Goal xmlns:archimate="http://www.archimatetool.com/archimate" id="e6ce59ee" name="Minimize Mission Failures" documentation="Failure to accomplish an assigned mission can have severe consequences in the military context. Failures to accomplish assigned missions must therefore be minimized."/>

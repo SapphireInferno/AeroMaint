@@ -1,4 +1,2 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="ea43acc1"
-    name="Aircraft Type Data Management Staff"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessActor xmlns:archimate="http://www.archimatetool.com/archimate" id="ea43acc1" name="Aircraft Type Data Management Staff"/>

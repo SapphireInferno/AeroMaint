@@ -1,5 +1,2 @@
-<archimate:Driver
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="4ff5bd14"
-    name="Expensive Spare Parts and Consumables"
-    documentation="Aerospace related spare parts (such as pumps, electronics units, structural assemblies, etc.) and even consumable items (such as tires, fluids, fasteners, etc.) are considerably more expensive than non-aerospace related items. "/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Driver xmlns:archimate="http://www.archimatetool.com/archimate" id="4ff5bd14" name="Expensive Spare Parts and Consumables" documentation="Aerospace related spare parts (such as pumps, electronics units, structural assemblies, etc.) and even consumable items (such as tires, fluids, fasteners, etc.) are considerably more expensive than non-aerospace related items. "/>

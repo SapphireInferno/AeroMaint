@@ -1,5 +1,2 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="ba50d9e0"
-    name="Provide requirement dates and priorities for parts and consumables"
-    documentation="Maintenance Organization requiring spare parts and consumables must be able to assign the required dates and priorities to requests for spare parts and consumables."/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="ba50d9e0" name="Provide requirement dates and priorities for parts and consumables" documentation="Maintenance Organization requiring spare parts and consumables must be able to assign the required dates and priorities to requests for spare parts and consumables."/>

@@ -1,5 +1,2 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="6bd278fd"
-    name="Limited Inventory of Parts and Consumables"
-    documentation="Due to the cost of spare parts and consumables the costs of holding inventory constrain quantities of parts and consumables which are available."/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Constraint xmlns:archimate="http://www.archimatetool.com/archimate" id="6bd278fd" name="Limited Inventory of Parts and Consumables" documentation="Due to the cost of spare parts and consumables the costs of holding inventory constrain quantities of parts and consumables which are available."/>

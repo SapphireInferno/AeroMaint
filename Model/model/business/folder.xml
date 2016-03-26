@@ -1,5 +1,2 @@
-<archimate:Folder
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business"
-    id="31a72300"
-    type="business"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Folder xmlns:archimate="http://www.archimatetool.com/archimate" name="Business" id="31a72300" type="business"/>

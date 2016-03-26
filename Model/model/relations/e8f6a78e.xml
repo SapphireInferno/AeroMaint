@@ -1,5 +1,5 @@
-<archimate:AssignmentRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="e8f6a78e"
-    source="archimate:BusinessActor ../business/b0828540.xml#b0828540"
-    target="archimate:BusinessRole ../business/ebba7e32.xml#ebba7e32"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:AssignmentRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="e8f6a78e">
+  <source xsi:type="archimate:BusinessActor" href="../business/b0828540.xml#b0828540"/>
+  <target xsi:type="archimate:BusinessRole" href="../business/ebba7e32.xml#ebba7e32"/>
+</archimate:AssignmentRelationship>

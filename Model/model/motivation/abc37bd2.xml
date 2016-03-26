@@ -1,5 +1,2 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="abc37bd2"
-    name="Measure Progress of Maintenance Tasks"
-    documentation="Actual completion of work must be tracked against work scheduled in order to assess if performance is to schedule. "/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="abc37bd2" name="Measure Progress of Maintenance Tasks" documentation="Actual completion of work must be tracked against work scheduled in order to assess if performance is to schedule. "/>

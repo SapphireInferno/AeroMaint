@@ -1,5 +1,2 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="1af87ffa"
-    name="Match Spare Parts and Consumables Required for Maintenance to Availability from Supply Chain "
-    documentation="Maintenance can only be scheduled to the extent spare parts and consumables are available to work the maintenance task."/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="1af87ffa" name="Match Spare Parts and Consumables Required for Maintenance to Availability from Supply Chain " documentation="Maintenance can only be scheduled to the extent spare parts and consumables are available to work the maintenance task."/>

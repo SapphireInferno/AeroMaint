@@ -1,4 +1,2 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="be36fee3"
-    name="Individual Aircraft Usage Forecast"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessObject xmlns:archimate="http://www.archimatetool.com/archimate" id="be36fee3" name="Individual Aircraft Usage Forecast"/>

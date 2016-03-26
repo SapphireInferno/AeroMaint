@@ -1,6 +1,5 @@
-<archimate:TriggeringRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="b02cc6a9"
-    name="Works on Shift of"
-    source="archimate:BusinessActor ../business/c44828c4.xml#c44828c4"
-    target="archimate:BusinessActor ../business/c48e2210.xml#c48e2210"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:TriggeringRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="b02cc6a9" name="Works on Shift of">
+  <source xsi:type="archimate:BusinessActor" href="../business/c44828c4.xml#c44828c4"/>
+  <target xsi:type="archimate:BusinessActor" href="../business/c48e2210.xml#c48e2210"/>
+</archimate:TriggeringRelationship>
