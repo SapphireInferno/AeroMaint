@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="524518f4" name="Identify Missions" documentation="Missions comprise the demand for aircraft against which the Maintenance Organization at a Squadron must supply capable aircraft to the Operations Organization. Missions are of various types and have varying parameters for aircraft required."/>
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="524518f4"
+    name="Identify Missions"
+    documentation="Missions comprise the demand for aircraft against which the Maintenance Organization at a Squadron must supply capable aircraft to the Operations Organization. Missions are of various types and have varying parameters for aircraft required."/>

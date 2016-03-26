@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Stakeholder xmlns:archimate="http://www.archimatetool.com/archimate" id="72e44273" name="Squadron" documentation="In the context of an Air Force, a Squadron is an organizational entity responsible for conducting a given set of missions with a given aircraft type"/>
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="72e44273"
+    name="Squadron"
+    documentation="In the context of an Air Force, a Squadron is an organizational entity responsible for conducting a given set of missions with a given aircraft type"/>

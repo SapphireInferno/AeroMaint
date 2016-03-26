@@ -1,2 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:ApplicationService xmlns:archimate="http://www.archimatetool.com/archimate" id="690fdeb6" name="Mission Planning"/>
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="690fdeb6"
+    name="Mission Planning"/>

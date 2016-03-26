@@ -1,2 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Goal xmlns:archimate="http://www.archimatetool.com/archimate" id="222154bb" name="Minimize delays to execute maintenance due to unavailability of parts and consumables"/>
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="222154bb"
+    name="Minimize delays to execute maintenance due to unavailability of parts and consumables"/>

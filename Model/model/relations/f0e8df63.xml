@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:AccessRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="f0e8df63" name="Creates">
-  <source xsi:type="archimate:BusinessActor" href="../business/c48e2210.xml#c48e2210"/>
-  <target xsi:type="archimate:BusinessObject" href="../business/47679b30.xml#47679b30"/>
-</archimate:AccessRelationship>
+<archimate:AccessRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f0e8df63"
+    name="Creates"
+    source="archimate:BusinessActor ../business/c48e2210.xml#c48e2210"
+    target="archimate:BusinessObject ../business/47679b30.xml#47679b30"/>

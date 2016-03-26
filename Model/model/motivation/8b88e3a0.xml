@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="8b88e3a0" name="Provide visability for parts availability or delivery" documentation="Spare parts and consumables must be provided by required dates (or with assigned priorities if constrained). In-process tracking of fulfilment for spare part or consumable request is required."/>
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="8b88e3a0"
+    name="Provide visability for parts availability or delivery"
+    documentation="Spare parts and consumables must be provided by required dates (or with assigned priorities if constrained). In-process tracking of fulfilment for spare part or consumable request is required."/>

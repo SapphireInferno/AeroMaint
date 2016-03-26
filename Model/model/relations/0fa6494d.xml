@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:AccessRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="0fa6494d" name="Accesses" accessType="1">
-  <source xsi:type="archimate:ApplicationComponent" href="../application/48e0b394.xml#48e0b394"/>
-  <target xsi:type="archimate:DataObject" href="../application/049b91f3.xml#049b91f3"/>
-</archimate:AccessRelationship>
+<archimate:AccessRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="0fa6494d"
+    name="Accesses"
+    source="archimate:ApplicationComponent ../application/48e0b394.xml#48e0b394"
+    target="archimate:DataObject ../application/049b91f3.xml#049b91f3"
+    accessType="1"/>

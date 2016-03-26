@@ -1,2 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:ApplicationService xmlns:archimate="http://www.archimatetool.com/archimate" id="af4b85f3" name="Maintenance Scheduling"/>
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="af4b85f3"
+    name="Maintenance Scheduling"/>

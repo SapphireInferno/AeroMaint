@@ -1,2 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Goal xmlns:archimate="http://www.archimatetool.com/archimate" id="0a856d5c" name="Minimize mission failures due to maintenance personnel error"/>
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="0a856d5c"
+    name="Minimize mission failures due to maintenance personnel error"/>

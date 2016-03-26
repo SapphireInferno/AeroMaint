@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="d4a82cff" name="Datapower">
+<archimate:InfrastructureService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="d4a82cff"
+    name="Datapower">
   <properties/>
 </archimate:InfrastructureService>

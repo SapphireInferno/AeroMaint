@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:ArchimateDiagramModel xmlns:archimate="http://www.archimatetool.com/archimate" id="84630602" name="Requirements Realization" viewpoint="21"/>
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="84630602"
+    name="Requirements Realization"
+    viewpoint="21"/>

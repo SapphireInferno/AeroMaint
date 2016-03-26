@@ -1,33 +1,144 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:ArchimateDiagramModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="8d462034" name="1C2 AppView - To-Be - Lack of Demand Data" viewpoint="16">
-  <children xsi:type="archimate:DiagramModelArchimateObject" id="e685f023" textAlignment="2">
-    <bounds x="564" y="156" width="200" height="80"/>
-    <archimateElement xsi:type="archimate:DataObject" href="../../application/c3fa8732.xml#c3fa8732"/>
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="8d462034"
+    name="1C2 AppView - To-Be - Lack of Demand Data"
+    viewpoint="16">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="89d0e86f"
+      textAlignment="2"
+      targetConnections="#5f0c4917"
+      archimateElement="archimate:BusinessObject ../../business/5d92b8fc.xml#5d92b8fc">
+    <bounds
+        x="140"
+        y="63"
+        width="120"
+        height="55"/>
   </children>
-  <children xsi:type="archimate:DiagramModelArchimateObject" id="cb43307a" textAlignment="2">
-    <bounds x="552" y="300" width="200" height="80"/>
-    <archimateElement xsi:type="archimate:DataObject" href="../../application/4007f513.xml#4007f513"/>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6fdd061d"
+      textAlignment="2"
+      targetConnections="#b302a8b4 #1530a05c"
+      archimateElement="archimate:BusinessProcess ../../business/789dbabe.xml#789dbabe">
+    <bounds
+        x="372"
+        y="63"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="5f0c4917"
+        textPosition="0"
+        source="#6fdd061d"
+        target="#89d0e86f"
+        relationship="archimate:AccessRelationship ../../relations/d81170b7.xml#d81170b7"/>
   </children>
-  <children xsi:type="archimate:DiagramModelArchimateObject" id="80531068" textAlignment="2" targetConnections="c13ac2d3">
-    <bounds x="281" y="468" width="200" height="80"/>
-    <archimateElement xsi:type="archimate:DataObject" href="../../application/c4702729.xml#c4702729"/>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4e86ce67"
+      textAlignment="2"
+      archimateElement="archimate:BusinessActor ../../business/0fb7d4f8.xml#0fb7d4f8">
+    <bounds
+        x="612"
+        y="63"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b302a8b4"
+        source="#4e86ce67"
+        target="#6fdd061d"
+        relationship="archimate:AssociationRelationship ../../relations/e3f8b853.xml#e3f8b853"/>
   </children>
-  <children xsi:type="archimate:DiagramModelArchimateObject" id="012486c8" textAlignment="2">
-    <bounds x="96" y="300" width="200" height="80"/>
-    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="c13ac2d3" source="012486c8" target="80531068">
-      <relationship xsi:type="archimate:AccessRelationship" href="../../relations/1e505c0d.xml#1e505c0d"/>
-    </sourceConnections>
-    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="8a546d97" source="012486c8" target="e11c9ac3">
-      <relationship xsi:type="archimate:AssignmentRelationship" href="../../relations/0ee2d589.xml#0ee2d589"/>
-    </sourceConnections>
-    <archimateElement xsi:type="archimate:ApplicationComponent" href="../../application/9d7af710.xml#9d7af710"/>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c1954858"
+      textAlignment="2"
+      targetConnections="#40b2a0dc"
+      archimateElement="archimate:ApplicationService ../../application/690fdeb6.xml#690fdeb6">
+    <bounds
+        x="372"
+        y="192"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="1530a05c"
+        source="#c1954858"
+        target="#6fdd061d"
+        relationship="archimate:UsedByRelationship ../../relations/332da12e.xml#332da12e"/>
   </children>
-  <children xsi:type="archimate:DiagramModelArchimateObject" id="373322c4" textAlignment="2">
-    <bounds x="312" y="120" width="200" height="80"/>
-    <archimateElement xsi:type="archimate:ApplicationComponent" href="../../application/46aaf8ac.xml#46aaf8ac"/>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fddc9b1c"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationComponent ../../application/ea437e65.xml#ea437e65">
+    <bounds
+        x="372"
+        y="300"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="40b2a0dc"
+        source="#fddc9b1c"
+        target="#c1954858"
+        relationship="archimate:RealisationRelationship ../../relations/2d707ecc.xml#2d707ecc"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ef49b416"
+        source="#fddc9b1c"
+        target="#cf78b08b"
+        relationship="archimate:CompositionRelationship ../../relations/3ce767c2.xml#3ce767c2"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="10d8d750"
+        source="#fddc9b1c"
+        target="#a4654c6d"
+        relationship="archimate:CompositionRelationship ../../relations/78a51769.xml#78a51769"/>
   </children>
-  <children xsi:type="archimate:DiagramModelArchimateObject" id="e11c9ac3" textAlignment="2" targetConnections="8a546d97">
-    <bounds x="36" y="192" width="200" height="80"/>
-    <archimateElement xsi:type="archimate:BusinessProcess" href="../../business/25743613.xml#25743613"/>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="cf78b08b"
+      textAlignment="2"
+      targetConnections="#ef49b416"
+      archimateElement="archimate:ApplicationComponent ../../application/e71c0a60.xml#e71c0a60">
+    <bounds
+        x="294"
+        y="407"
+        width="120"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a4654c6d"
+      textAlignment="2"
+      targetConnections="#10d8d750"
+      archimateElement="archimate:ApplicationComponent ../../application/a70111b9.xml#a70111b9">
+    <bounds
+        x="456"
+        y="407"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="5e22db5f"
+        source="#a4654c6d"
+        target="#8425763a"
+        relationship="archimate:AccessRelationship ../../relations/8d728911.xml#8d728911"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8425763a"
+      textAlignment="2"
+      targetConnections="#5e22db5f"
+      archimateElement="archimate:DataObject ../../application/049b91f3.xml#049b91f3">
+    <bounds
+        x="708"
+        y="407"
+        width="120"
+        height="55"/>
   </children>
 </archimate:ArchimateDiagramModel>

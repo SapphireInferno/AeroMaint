@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="21b9a06e" name="Match Labour Demand to Capacity" documentation="Maintenance can only be scheduled to the extent labour is available to work the maintenance task."/>
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="21b9a06e"
+    name="Match Labour Demand to Capacity"
+    documentation="Maintenance can only be scheduled to the extent labour is available to work the maintenance task."/>
