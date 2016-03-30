@@ -1,0 +1,5 @@
+<archimate:AssignmentRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="93d947f6"
+    source="archimate:BusinessActor ../business/b0828540.xml#b0828540"
+    target="archimate:BusinessProcess ../business/93ce6fb2.xml#93ce6fb2"/>
