@@ -357,4 +357,26 @@
         target="#286f210c"
         relationship="archimate:RealisationRelationship ../../relations/564cf79e.xml#564cf79e"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="931f2218"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationService ../../application/b7387b3b.xml#b7387b3b">
+    <bounds
+        x="1212"
+        y="528"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="729ec02a"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationService ../../application/9cc4df3d.xml#9cc4df3d">
+    <bounds
+        x="389"
+        y="240"
+        width="200"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
