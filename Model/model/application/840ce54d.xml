@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="840ce54d"
+    name="Maintenance Forecast Reporting"
+    documentation="Service exposed by DRMIS to provide the estimated maintenance dates of future maintenance tasks for an aircraft. Uses the /ISDFPS/LMCUS (Controlled Usage Summary Report) transaction"/>
