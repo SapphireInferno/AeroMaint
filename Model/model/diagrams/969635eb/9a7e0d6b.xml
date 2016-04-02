@@ -10,10 +10,16 @@
       textAlignment="2"
       archimateElement="archimate:ApplicationService ../../application/132fbdbb.xml#132fbdbb">
     <bounds
-        x="1044"
+        x="835"
         y="300"
         width="200"
         height="80"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="6b3d5d9a"
+        source="#addd6d78"
+        target="#8ef4cf5c"
+        relationship="archimate:UsedByRelationship ../../relations/d212da97.xml#d212da97"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -56,7 +62,7 @@
       textAlignment="2"
       archimateElement="archimate:BusinessActor ../../business/ea43acc1.xml#ea43acc1">
     <bounds
-        x="1044"
+        x="835"
         y="36"
         width="200"
         height="80"/>
@@ -71,10 +77,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="8ef4cf5c"
       textAlignment="2"
-      targetConnections="#0fc55fec"
+      targetConnections="#0fc55fec #6b3d5d9a"
       archimateElement="archimate:BusinessRole ../../business/aa308d0e.xml#aa308d0e">
     <bounds
-        x="1044"
+        x="835"
         y="168"
         width="200"
         height="80"/>
