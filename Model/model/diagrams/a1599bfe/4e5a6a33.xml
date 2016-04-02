@@ -12,8 +12,8 @@
     <bounds
         x="60"
         y="444"
-        width="1285"
-        height="289"/>
+        width="853"
+        height="157"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f1192e8d"
@@ -21,9 +21,9 @@
         archimateElement="archimate:ApplicationComponent ../../application/3bb050e2.xml#3bb050e2">
       <bounds
           x="48"
-          y="204"
-          width="613"
-          height="61"/>
+          y="48"
+          width="361"
+          height="73"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -31,22 +31,11 @@
         textAlignment="2"
         archimateElement="archimate:ApplicationComponent ../../application/1f1758a0.xml#1f1758a0">
       <bounds
-          x="1008"
-          y="36"
-          width="200"
-          height="181"/>
+          x="444"
+          y="48"
+          width="360"
+          height="73"/>
     </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="b1885ef8"
-      textAlignment="2"
-      archimateElement="archimate:ApplicationService ../../application/b7387b3b.xml#b7387b3b">
-    <bounds
-        x="84"
-        y="48"
-        width="200"
-        height="80"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -54,10 +43,10 @@
       textAlignment="2"
       archimateElement="archimate:ApplicationComponent ../../application/1df0677a.xml#1df0677a">
     <bounds
-        x="108"
-        y="900"
-        width="1309"
-        height="233"/>
+        x="72"
+        y="715"
+        width="841"
+        height="157"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ec475506"
@@ -65,21 +54,10 @@
         archimateElement="archimate:ApplicationComponent ../../application/752f7ebc.xml#752f7ebc">
       <bounds
           x="48"
-          y="72"
-          width="236"
-          height="121"/>
+          y="36"
+          width="349"
+          height="73"/>
     </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="eef3175a"
-      textAlignment="2"
-      archimateElement="archimate:ApplicationInterface ../../application/fa039c57.xml#fa039c57">
-    <bounds
-        x="84"
-        y="288"
-        width="200"
-        height="80"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -87,8 +65,8 @@
       textAlignment="2"
       archimateElement="archimate:ApplicationInterface ../../application/d1f85734.xml#d1f85734">
     <bounds
-        x="120"
-        y="780"
+        x="192"
+        y="612"
         width="200"
         height="80"/>
   </children>
@@ -99,19 +77,140 @@
       archimateElement="archimate:ApplicationComponent ../../application/3b4e1353.xml#3b4e1353">
     <bounds
         x="84"
-        y="156"
+        y="192"
         width="200"
         height="80"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="e7b78821"
+      id="eef3175a"
       textAlignment="2"
-      archimateElement="archimate:ApplicationService ../../application/9cc4df3d.xml#9cc4df3d">
+      archimateElement="archimate:ApplicationInterface ../../application/fa039c57.xml#fa039c57">
     <bounds
-        x="420"
-        y="48"
+        x="84"
+        y="300"
         width="200"
         height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d3fb49b5"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationComponent ../../application/f509320f.xml#f509320f">
+    <bounds
+        x="624"
+        y="192"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6243f711"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationInterface ../../application/e8130699.xml#e8130699">
+    <bounds
+        x="624"
+        y="300"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9fb1b566"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationComponent ../../application/b07df1ad.xml#b07df1ad">
+    <bounds
+        x="1145"
+        y="191"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="839fa847"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationInterface ../../application/4ee5eae5.xml#4ee5eae5">
+    <bounds
+        x="1145"
+        y="288"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2e4111e4"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationService ../../application/4e95ea70.xml#4e95ea70">
+    <bounds
+        x="24"
+        y="12"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b6025ff4"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationService ../../application/90276541.xml#90276541">
+    <bounds
+        x="228"
+        y="12"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="402aa9e7"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationService ../../application/b3a4adcf.xml#b3a4adcf">
+    <bounds
+        x="456"
+        y="12"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c24088d4"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationService ../../application/a84f51e6.xml#a84f51e6">
+    <bounds
+        x="672"
+        y="12"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fa72a558"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationService ../../application/df7ba4fc.xml#df7ba4fc">
+    <bounds
+        x="888"
+        y="12"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="84024e64"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationService ../../application/0926ff83.xml#0926ff83">
+    <bounds
+        x="1145"
+        y="7"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a63c564b"
+      textAlignment="1"
+      content="Contact Information, Skills, Certifications, Trainings">
+    <bounds
+        x="1152"
+        y="43"
+        width="185"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

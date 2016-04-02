@@ -10,8 +10,8 @@
       textAlignment="2"
       archimateElement="archimate:BusinessActor ../../business/1835dfb0.xml#1835dfb0">
     <bounds
-        x="12"
-        y="12"
+        x="257"
+        y="84"
         width="200"
         height="80"/>
   </children>
@@ -374,8 +374,19 @@
       textAlignment="2"
       archimateElement="archimate:ApplicationService ../../application/9cc4df3d.xml#9cc4df3d">
     <bounds
-        x="389"
-        y="240"
+        x="252"
+        y="264"
+        width="200"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="18d1742c"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationService ../../application/aaba2868.xml#aaba2868">
+    <bounds
+        x="240"
+        y="516"
         width="200"
         height="80"/>
   </children>
