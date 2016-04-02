@@ -561,15 +561,4 @@
         width="120"
         height="49"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="28cfa874"
-      textAlignment="2"
-      archimateElement="archimate:ApplicationComponent ../../application/1791df17.xml#1791df17">
-    <bounds
-        x="365"
-        y="157"
-        width="120"
-        height="55"/>
-  </children>
 </archimate:ArchimateDiagramModel>
