@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ba4df287"
+    name="Work Request Creation"
+    documentation="Service exposed from DRMIS for manually creating work packages (typically due to unexpected damage, break-fix, etc.)"/>

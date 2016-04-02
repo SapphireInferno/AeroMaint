@@ -44,6 +44,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="95f05239"
       textAlignment="2"
+      targetConnections="#0601a200 #258ff894"
       archimateElement="archimate:BusinessActor ../../business/c48e2210.xml#c48e2210">
     <bounds
         x="1176"
@@ -199,17 +200,6 @@
         height="80"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="f4837e54"
-      textAlignment="1"
-      content="We added this relation&#xD;&#xA;------->">
-    <bounds
-        x="1248"
-        y="533"
-        width="185"
-        height="80"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="245aa68d"
       textAlignment="2"
@@ -245,10 +235,16 @@
       textAlignment="2"
       archimateElement="archimate:ApplicationService ../../application/5085c2b1.xml#5085c2b1">
     <bounds
-        x="1404"
-        y="895"
+        x="1332"
+        y="775"
         width="200"
-        height="80"/>
+        height="79"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="258ff894"
+        source="#c931bc74"
+        target="#95f05239"
+        relationship="archimate:UsedByRelationship ../../relations/909011ce.xml#909011ce"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -256,10 +252,16 @@
       textAlignment="2"
       archimateElement="archimate:ApplicationService ../../application/af4b85f3.xml#af4b85f3">
     <bounds
-        x="1236"
-        y="895"
+        x="1111"
+        y="776"
         width="157"
         height="78"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="0601a200"
+        source="#d05271e4"
+        target="#95f05239"
+        relationship="archimate:UsedByRelationship ../../relations/d64d7a1c.xml#d64d7a1c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
