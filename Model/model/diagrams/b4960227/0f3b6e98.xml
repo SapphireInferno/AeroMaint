@@ -1,36 +1,5 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="0f3b6e98"
     name="3C2 AppView - To-Be - Inability to Perform Weekly Forecasts"
-    viewpoint="16">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="c17b166a"
-      textAlignment="2"
-      targetConnections="#55865c6e"
-      archimateElement="archimate:ApplicationService ../../application/0a92f6b3.xml#0a92f6b3">
-    <bounds
-        x="243"
-        y="109"
-        width="120"
-        height="55"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="e6cf86c5"
-      textAlignment="2"
-      archimateElement="archimate:ApplicationComponent ../../application/a3318a0b.xml#a3318a0b">
-    <bounds
-        x="240"
-        y="216"
-        width="120"
-        height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="55865c6e"
-        source="#e6cf86c5"
-        target="#c17b166a"
-        relationship="archimate:UsedByRelationship ../../relations/ca89c28f.xml#ca89c28f"/>
-  </children>
-</archimate:ArchimateDiagramModel>
+    viewpoint="16"/>
