@@ -246,10 +246,10 @@
         target="#a276eb98"
         relationship="archimate:UsedByRelationship ../../relations/b9404190.xml#b9404190">
       <bendpoints
-          startX="8"
-          startY="-64"
-          endX="284"
-          endY="200"/>
+          startX="-16"
+          startY="-280"
+          endX="308"
+          endY="-4"/>
     </sourceConnections>
   </children>
 </archimate:ArchimateDiagramModel>

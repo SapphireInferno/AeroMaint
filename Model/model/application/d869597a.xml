@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="d869597a"
-    name="Maintenance Notification &amp; Order Management"/>
+    name="Maintenance Notifications PM"
+    documentation="You use this application component in maintenance processing in the event of a malfunction or exceptional situation to:&#xD;&#xA;&#xD;&#xA;    Describe the exceptional technical condition at an object&#xD;&#xA;    Request the maintenance department to perform a necessary task&#xD;&#xA;    Document work that has been performed&#xD;&#xA;&#xD;&#xA;Maintenance notifications document maintenance tasks completely, and make them available for analysis in the long term. You can use them for preliminary planning and execution of tasks.&#xD;&#xA;&#xD;&#xA;In order to support the maintenance process, PM notifications can reference maintenance task lists. Therefore, when a PM order is created from a notification referencing a (hierarchical) task list, the task list is exploded and the information transferred to the PM order, see (&#xD;&#xA;link auf MEB doku, creating orders from notifications ).&#xD;&#xA;&#xD;&#xA;http://help.sap.com/saphelp_di46c2/helpdata/en/89/bedca0700c11d38ade0000e8284931/content.htm&#xD;&#xA;"/>
