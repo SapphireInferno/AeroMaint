@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="943b38b0"
-    name="Maintenance Notification &amp; Order Management"
-    documentation="Service exposed by DRMIS to show the work packages (Notifications and Orders) created against aircraft and equipment and the execution state of these work packages (created, released, technically completed, business closed, etc.)"/>
