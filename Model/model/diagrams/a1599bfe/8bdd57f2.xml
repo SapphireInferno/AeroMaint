@@ -27,12 +27,6 @@
         height="80"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="f32d277e"
-        source="#a3d26035"
-        target="#e13680e5"
-        relationship="archimate:AccessRelationship ../../relations/94e1168c.xml#94e1168c"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="ae6d915f"
         source="#a3d26035"
         target="#6f0c762f"
@@ -55,12 +49,6 @@
         y="408"
         width="200"
         height="80"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="408a9f85"
-        source="#debdf748"
-        target="#e13680e5"
-        relationship="archimate:AccessRelationship ../../relations/e058880b.xml#e058880b"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="0e477046"
@@ -255,6 +243,12 @@
           endX="-88"
           endY="-64"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="408a9f85"
+        source="#41fe74c3"
+        target="#e13680e5"
+        relationship="archimate:AccessRelationship ../../relations/e058880b.xml#e058880b"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -309,6 +303,12 @@
         source="#6f0c762f"
         target="#aac484fd"
         relationship="archimate:TriggeringRelationship ../../relations/52e87fc3.xml#52e87fc3"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f32d277e"
+        source="#6f0c762f"
+        target="#e13680e5"
+        relationship="archimate:AccessRelationship ../../relations/94e1168c.xml#94e1168c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

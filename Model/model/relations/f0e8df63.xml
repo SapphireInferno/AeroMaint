@@ -2,5 +2,5 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f0e8df63"
     name="Creates"
-    source="archimate:BusinessActor ../business/c48e2210.xml#c48e2210"
+    source="archimate:BusinessProcess ../business/ca6151bb.xml#ca6151bb"
     target="archimate:BusinessObject ../business/47679b30.xml#47679b30"/>

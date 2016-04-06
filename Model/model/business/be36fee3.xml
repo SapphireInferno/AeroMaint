@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="be36fee3"
-    name="Individual Aircraft Usage Forecast"/>
+    name="Individual Aircraft Usage Forecast (as-is)"
+    documentation="In the as-is state, an individual aircraft's usage forecast is naively calculated as the fleet total annual usage divided by the number of aicraft in fleet."/>
