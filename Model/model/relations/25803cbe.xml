@@ -1,5 +1,0 @@
-<archimate:RealisationRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="25803cbe"
-    source="archimate:ApplicationComponent ../application/8952b012.xml#8952b012"
-    target="archimate:ApplicationService ../application/49b2f4a1.xml#49b2f4a1"/>

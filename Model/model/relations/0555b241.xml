@@ -1,6 +1,0 @@
-<archimate:AssociationRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="0555b241"
-    name="Updated by"
-    source="archimate:BusinessObject ../business/5d92b8fc.xml#5d92b8fc"
-    target="archimate:DataObject ../application/f21c8c55.xml#f21c8c55"/>
