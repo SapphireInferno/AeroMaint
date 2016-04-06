@@ -11,8 +11,8 @@
       targetConnections="#c3e28819 #846223f9 #914b7039"
       archimateElement="archimate:Goal ../../motivation/e6745428.xml#e6745428">
     <bounds
-        x="408"
-        y="216"
+        x="324"
+        y="178"
         width="204"
         height="55"/>
   </children>
@@ -22,8 +22,8 @@
       textAlignment="2"
       archimateElement="archimate:Requirement ../../motivation/4a07bdfa.xml#4a07bdfa">
     <bounds
-        x="360"
-        y="317"
+        x="276"
+        y="279"
         width="204"
         height="55"/>
     <sourceConnections
@@ -45,8 +45,8 @@
       textAlignment="2"
       archimateElement="archimate:Requirement ../../motivation/65117421.xml#65117421">
     <bounds
-        x="497"
-        y="398"
+        x="413"
+        y="360"
         width="204"
         height="55"/>
     <sourceConnections
@@ -68,8 +68,8 @@
       textAlignment="2"
       archimateElement="archimate:Stakeholder ../../motivation/abc4c22e.xml#abc4c22e">
     <bounds
-        x="408"
-        y="60"
+        x="324"
+        y="22"
         width="193"
         height="73"/>
     <sourceConnections
@@ -86,8 +86,8 @@
       targetConnections="#dfaac811 #f763fa63"
       archimateElement="archimate:Goal ../../motivation/a5d7892f.xml#a5d7892f">
     <bounds
-        x="48"
-        y="300"
+        x="12"
+        y="267"
         width="200"
         height="80"/>
   </children>
@@ -97,8 +97,8 @@
       textAlignment="2"
       archimateElement="archimate:Requirement ../../motivation/0d0c90e2.xml#0d0c90e2">
     <bounds
-        x="48"
-        y="420"
+        x="12"
+        y="387"
         width="200"
         height="80"/>
     <sourceConnections
@@ -121,8 +121,8 @@
       targetConnections="#cc89fa94"
       archimateElement="archimate:Stakeholder ../../motivation/832f4c75.xml#832f4c75">
     <bounds
-        x="48"
-        y="176"
+        x="12"
+        y="143"
         width="200"
         height="80"/>
     <sourceConnections
@@ -138,8 +138,8 @@
       textAlignment="2"
       archimateElement="archimate:Stakeholder ../../motivation/72e44273.xml#72e44273">
     <bounds
-        x="48"
-        y="57"
+        x="12"
+        y="24"
         width="200"
         height="80"/>
     <sourceConnections
@@ -153,11 +153,11 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="63d27b96"
       textAlignment="2"
-      targetConnections="#eb254ab2 #a1ac39da #56ff0185"
+      targetConnections="#eb254ab2 #a1ac39da #56ff0185 #079182bb"
       archimateElement="archimate:Requirement ../../motivation/80be0799.xml#80be0799">
     <bounds
-        x="410"
-        y="528"
+        x="326"
+        y="490"
         width="200"
         height="80"/>
     <sourceConnections
@@ -180,8 +180,8 @@
       targetConnections="#2026510b"
       archimateElement="archimate:Requirement ../../motivation/97d4f889.xml#97d4f889">
     <bounds
-        x="298"
-        y="720"
+        x="214"
+        y="682"
         width="200"
         height="80"/>
   </children>
@@ -189,23 +189,46 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="03608f9f"
       textAlignment="2"
-      targetConnections="#c9e88ca1"
+      targetConnections="#c9e88ca1 #52c37814"
       archimateElement="archimate:Requirement ../../motivation/80d840a6.xml#80d840a6">
     <bounds
-        x="526"
-        y="720"
+        x="442"
+        y="682"
         width="200"
         height="80"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="765d0c7d"
-      textAlignment="1"
-      content="Need to include fact that aircraft are in separate fleet groups which have different useage rates.">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b408e8e2"
+      textAlignment="2"
+      archimateElement="archimate:Constraint ../../motivation/d68d2e1d.xml#d68d2e1d">
     <bounds
-        x="804"
-        y="432"
-        width="185"
+        x="732"
+        y="490"
+        width="200"
         height="80"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="079182bb"
+        source="#b408e8e2"
+        target="#63d27b96"
+        relationship="archimate:InfluenceRelationship ../../relations/663dce25.xml#663dce25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="acd743d7"
+      textAlignment="2"
+      archimateElement="archimate:Constraint ../../motivation/4be82110.xml#4be82110">
+    <bounds
+        x="732"
+        y="682"
+        width="200"
+        height="80"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="52c37814"
+        source="#acd743d7"
+        target="#03608f9f"
+        relationship="archimate:InfluenceRelationship ../../relations/5f6e014d.xml#5f6e014d"/>
   </children>
 </archimate:ArchimateDiagramModel>

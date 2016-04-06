@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="d68d2e1d"
+    name="Aircraft the same type can be subject to different average rates of usage"
+    documentation="Aircraft assigned to operate at geographically separate locations or configured for particular types of missions can be subject to different average rates of usage than other aircraft of the same type."/>

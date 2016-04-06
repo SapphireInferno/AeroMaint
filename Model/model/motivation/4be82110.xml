@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="4be82110"
+    name="Performance Based Maintenance can be tracked against different measures of usage"
+    documentation="An aircraft may track many separate measures of performance (such as hours flown, operating hours for each engine, thermal cycles for each engine, count of landings, fluids consumed, etc.) and the manufacturer may required maintenance tasks to be performed with respect to any of these measures."/>
