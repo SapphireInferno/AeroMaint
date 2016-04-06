@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="963d9424"
+    name="Period Estimates Entry"
+    documentation="The user enters here the usages estimates for future timeframes for a particulzar set of aircraft"/>

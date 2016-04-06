@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="59fdc9cf"
+    name="Time Based PM"
+    documentation="In time based preventive maintence, the maintenance tasks are planned and performed depending on the time-dependent intervals determined."/>

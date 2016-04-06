@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="17b5a07b"
+    name="Condition Based PM"
+    documentation="In condition-based maintenance, maintenance activities are always performed when the measuring point of a technical object has reached a particular state, for example, every time a brake pad has been worn away to the minimum thickness permitted."/>
