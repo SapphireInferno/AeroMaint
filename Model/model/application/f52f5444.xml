@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="f52f5444"
-    name="Performance Based PM"
-    documentation="You can use performance-based maintenance planning, for example, to ensure for the maintenance call object , maintenance order (PM order), that the operations contained in the maintenance task list are performed at a time when the technical object actually requires maintenance."/>

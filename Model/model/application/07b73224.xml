@@ -1,15 +1,4 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="07b73224"
-    name="Measuring Points"
-    documentation="Measuring points in the SAP System describe the physical and/or logical locations at which a condition is described, (for example, the coolant temperature in a nuclear power station after the coolant has left the pressure vessel, or the number of revolutions at a rotor shaft of a wind-driven power plant).">
-  <properties
-      key="Counter Checkbox"
-      value="Indicate that measurements are cumulative values"/>
-  <properties
-      key="Counter over Reading"
-      value="Set values for when counter goes back to zero"/>
-  <properties
-      key="Annual estimate"
-      value="Used to project maintenance plan call date"/>
-</archimate:DataObject>
+    name="Measuring Points"/>
