@@ -2,4 +2,5 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="850fef9c"
     source="archimate:ApplicationComponent ../application/be6acac9.xml#be6acac9"
-    target="archimate:DataObject ../application/9761bdb8.xml#9761bdb8"/>
+    target="archimate:DataObject ../application/9761bdb8.xml#9761bdb8"
+    accessType="1"/>

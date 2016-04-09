@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="19fa9407"
+    name="Measuring Points Mass Maintenance"
+    documentation="This application components reads the master equipment usage and the average calculated by the maintain master equipment usage rate to update all at once the SAP annual estimates for a list of selected characteristics."/>
