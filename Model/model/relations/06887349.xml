@@ -1,0 +1,6 @@
+<archimate:AccessRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="06887349"
+    source="archimate:ApplicationComponent ../application/e71c0a60.xml#e71c0a60"
+    target="archimate:DataObject ../application/5d17720b.xml#5d17720b"
+    accessType="1"/>
