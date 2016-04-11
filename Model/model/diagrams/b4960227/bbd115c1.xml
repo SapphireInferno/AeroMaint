@@ -89,7 +89,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1471bba6"
       textAlignment="2"
-      targetConnections="#1bc041b5"
       archimateElement="archimate:ApplicationService ../../application/cbdffea6.xml#cbdffea6">
     <bounds
         x="600"
@@ -107,12 +106,6 @@
         y="180"
         width="120"
         height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1bc041b5"
-        source="#bdff8a84"
-        target="#1471bba6"
-        relationship="archimate:UsedByRelationship ../../relations/bbd87bb8.xml#bbd87bb8"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="712b1808"
