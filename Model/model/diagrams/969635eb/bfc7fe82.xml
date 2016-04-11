@@ -75,12 +75,6 @@
         height="55"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c5364ad3"
-        source="#88929642"
-        target="#83c00ef8"
-        relationship="archimate:UsedByRelationship ../../relations/e42ab457.xml#e42ab457"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="a901867c"
         source="#88929642"
         target="#a7cad53f"
@@ -231,7 +225,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="83c00ef8"
       textAlignment="2"
-      targetConnections="#c5364ad3"
       archimateElement="archimate:ApplicationService ../../application/132fbdbb.xml#132fbdbb">
     <bounds
         x="840"
