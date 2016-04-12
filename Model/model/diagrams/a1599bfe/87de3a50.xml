@@ -263,7 +263,7 @@
       archimateElement="archimate:Stakeholder ../../motivation/09460418.xml#09460418">
     <bounds
         x="132"
-        y="1092"
+        y="1320"
         width="200"
         height="80"/>
     <sourceConnections
@@ -279,9 +279,9 @@
         target="#dcc1f771"
         relationship="archimate:AssociationRelationship ../../relations/c4e74395.xml#c4e74395">
       <bendpoints
-          startX="152"
-          startY="80"
-          endX="-424"
+          startX="188"
+          startY="128"
+          endX="-556"
           endY="-4"/>
     </sourceConnections>
   </children>
@@ -292,8 +292,8 @@
       targetConnections="#a975dff8"
       archimateElement="archimate:Requirement ../../motivation/73848ffc.xml#73848ffc">
     <bounds
-        x="696"
-        y="840"
+        x="864"
+        y="924"
         width="200"
         height="80"/>
     <sourceConnections
@@ -316,8 +316,8 @@
       targetConnections="#04e1719c #ff2ad33c"
       archimateElement="archimate:Requirement ../../motivation/4a92b478.xml#4a92b478">
     <bounds
-        x="708"
-        y="1176"
+        x="876"
+        y="1452"
         width="200"
         height="80"/>
   </children>
@@ -328,7 +328,7 @@
       targetConnections="#6ec6f778"
       archimateElement="archimate:Requirement ../../motivation/b2da726f.xml#b2da726f">
     <bounds
-        x="696"
+        x="864"
         y="384"
         width="200"
         height="80"/>
@@ -346,8 +346,8 @@
       targetConnections="#1f33da67 #8355747c"
       archimateElement="archimate:Requirement ../../motivation/701a089c.xml#701a089c">
     <bounds
-        x="408"
-        y="1116"
+        x="384"
+        y="1320"
         width="200"
         height="80"/>
   </children>
@@ -358,8 +358,8 @@
       targetConnections="#fd03db26"
       archimateElement="archimate:Requirement ../../motivation/abc37bd2.xml#abc37bd2">
     <bounds
-        x="480"
-        y="1224"
+        x="607"
+        y="1320"
         width="200"
         height="80"/>
   </children>
@@ -369,8 +369,8 @@
       textAlignment="2"
       archimateElement="archimate:Requirement ../../motivation/eed80c4d.xml#eed80c4d">
     <bounds
-        x="444"
-        y="948"
+        x="744"
+        y="1080"
         width="200"
         height="80"/>
   </children>
