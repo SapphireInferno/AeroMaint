@@ -11,19 +11,20 @@
       targetConnections="#83fe2ccc"
       archimateElement="archimate:Goal ../../motivation/a5d7892f.xml#a5d7892f">
     <bounds
-        x="828"
-        y="48"
+        x="526"
+        y="240"
         width="204"
-        height="55"/>
+        height="60"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1c6d0947"
       textAlignment="2"
+      targetConnections="#775a5df9"
       archimateElement="archimate:Requirement ../../motivation/0d0c90e2.xml#0d0c90e2">
     <bounds
-        x="828"
-        y="155"
+        x="524"
+        y="418"
         width="204"
         height="60"/>
     <sourceConnections
@@ -31,7 +32,18 @@
         id="2a88c8fb"
         source="#1c6d0947"
         target="#73888bb7"
-        relationship="archimate:CompositionRelationship ../../relations/f4b77e7c.xml#f4b77e7c"/>
+        relationship="archimate:CompositionRelationship ../../relations/f4b77e7c.xml#f4b77e7c">
+      <bendpoints
+          startX="-76"
+          startY="104"
+          endX="199"
+          endY="-65"/>
+      <bendpoints
+          startX="-280"
+          startY="104"
+          endX="-5"
+          endY="-65"/>
+    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="83fe2ccc"
@@ -43,7 +55,18 @@
         id="3b75b550"
         source="#1c6d0947"
         target="#a98f7cc5"
-        relationship="archimate:CompositionRelationship ../../relations/e5119848.xml#e5119848"/>
+        relationship="archimate:CompositionRelationship ../../relations/e5119848.xml#e5119848">
+      <bendpoints
+          startX="80"
+          startY="104"
+          endX="-122"
+          endY="-65"/>
+      <bendpoints
+          startX="200"
+          startY="104"
+          endX="-2"
+          endY="-65"/>
+    </sourceConnections>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -52,10 +75,10 @@
       targetConnections="#3b75b550"
       archimateElement="archimate:Requirement ../../motivation/a8c9c03c.xml#a8c9c03c">
     <bounds
-        x="1020"
-        y="324"
-        width="200"
-        height="80"/>
+        x="727"
+        y="587"
+        width="204"
+        height="60"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="aad0c793"
@@ -67,13 +90,13 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="73888bb7"
       textAlignment="2"
-      targetConnections="#2a88c8fb"
+      targetConnections="#2a88c8fb #bbb1121b"
       archimateElement="archimate:Requirement ../../motivation/73ba3c11.xml#73ba3c11">
     <bounds
-        x="660"
-        y="324"
-        width="200"
-        height="80"/>
+        x="250"
+        y="587"
+        width="204"
+        height="60"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="05ca3315"
@@ -81,10 +104,45 @@
         target="#3d64e6e4"
         relationship="archimate:CompositionRelationship ../../relations/442f0c02.xml#442f0c02">
       <bendpoints
-          startX="56"
-          startY="68"
-          endX="-88"
-          endY="-64"/>
+          startX="-5"
+          startY="127"
+          endX="-149"
+          endY="-5"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c74c241c"
+        source="#73888bb7"
+        target="#8b006525"
+        relationship="archimate:CompositionRelationship ../../relations/229a9ad1.xml#229a9ad1">
+      <bendpoints
+          startX="-29"
+          startY="211"
+          endX="-173"
+          endY="-5"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="dc02b8de"
+        source="#73888bb7"
+        target="#cb4194d5"
+        relationship="archimate:CompositionRelationship ../../relations/2d5871ae.xml#2d5871ae">
+      <bendpoints
+          startX="-53"
+          startY="295"
+          endX="-197"
+          endY="-5"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b8cc29c5"
+        source="#73888bb7"
+        target="#f5a750f0"
+        relationship="archimate:CompositionRelationship ../../relations/0258251b.xml#0258251b">
+      <bendpoints
+          startX="-77"
+          startY="391"
+          endX="-221"/>
     </sourceConnections>
   </children>
   <children
@@ -94,10 +152,10 @@
       targetConnections="#05ca3315"
       archimateElement="archimate:Requirement ../../motivation/21b9a06e.xml#21b9a06e">
     <bounds
-        x="804"
-        y="456"
-        width="200"
-        height="80"/>
+        x="394"
+        y="719"
+        width="204"
+        height="60"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -106,10 +164,10 @@
       targetConnections="#aad0c793"
       archimateElement="archimate:Requirement ../../motivation/abc37bd2.xml#abc37bd2">
     <bounds
-        x="1152"
-        y="456"
-        width="200"
-        height="80"/>
+        x="727"
+        y="719"
+        width="204"
+        height="60"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -121,7 +179,7 @@
         x="24"
         y="24"
         width="204"
-        height="55"/>
+        height="60"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="5e6fe2bc"
@@ -140,18 +198,19 @@
         x="24"
         y="132"
         width="204"
-        height="55"/>
+        height="60"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="916f6734"
       textAlignment="2"
+      targetConnections="#41820ef7"
       archimateElement="archimate:Requirement ../../motivation/b2da726f.xml#b2da726f">
     <bounds
-        x="26"
-        y="393"
-        width="199"
-        height="55"/>
+        x="24"
+        y="420"
+        width="204"
+        height="60"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f4d09d68"
@@ -169,7 +228,7 @@
         x="24"
         y="240"
         width="204"
-        height="55"/>
+        height="60"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="64a11648"
@@ -186,7 +245,7 @@
         x="252"
         y="24"
         width="204"
-        height="55"/>
+        height="60"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="4b364803"
@@ -200,10 +259,10 @@
       textAlignment="2"
       archimateElement="archimate:Requirement ../../motivation/d477f966.xml#d477f966">
     <bounds
-        x="252"
-        y="393"
+        x="250"
+        y="420"
         width="204"
-        height="55"/>
+        height="60"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="9d0bd9f3"
@@ -220,29 +279,116 @@
     <bounds
         x="252"
         y="240"
+        width="204"
+        height="60"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8b006525"
+      textAlignment="2"
+      targetConnections="#c74c241c"
+      archimateElement="archimate:Requirement ../../motivation/3b5220ad.xml#3b5220ad">
+    <bounds
+        x="394"
+        y="803"
+        width="204"
+        height="60"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="cb4194d5"
+      textAlignment="2"
+      targetConnections="#dc02b8de"
+      archimateElement="archimate:Requirement ../../motivation/377b6d2e.xml#377b6d2e">
+    <bounds
+        x="394"
+        y="887"
+        width="204"
+        height="60"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f5a750f0"
+      textAlignment="2"
+      targetConnections="#b8cc29c5"
+      archimateElement="archimate:Requirement ../../motivation/1af87ffa.xml#1af87ffa">
+    <bounds
+        x="394"
+        y="971"
+        width="204"
+        height="72"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="256b4e3d"
+      textAlignment="2"
+      archimateElement="archimate:Stakeholder ../../motivation/6ef35724.xml#6ef35724">
+    <bounds
+        x="840"
+        y="191"
         width="200"
-        height="55"/>
+        height="80"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="41820ef7"
+        source="#256b4e3d"
+        target="#916f6734"
+        relationship="archimate:AssociationRelationship ../../relations/57758615.xml#57758615">
+      <bendpoints
+          startX="-52"
+          startY="94"
+          endX="763"
+          endY="-125"/>
+      <bendpoints
+          startX="-784"
+          startY="94"
+          endX="31"
+          endY="-125"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="775a5df9"
+        source="#256b4e3d"
+        target="#1c6d0947"
+        relationship="archimate:AssociationRelationship ../../relations/6e3c139a.xml#6e3c139a">
+      <bendpoints
+          startX="-52"
+          startY="94"
+          endX="263"
+          endY="-124"/>
+      <bendpoints
+          startX="-292"
+          startY="94"
+          endX="23"
+          endY="-124"/>
+    </sourceConnections>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="93ed44a9"
-      textAlignment="1"
-      content="'Manage Labour Capacity' to be broken out to specific requirements... ie. manage individual absences, manage shift schedules, forecaset labour capacities...">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="72e16c62"
+      textAlignment="2"
+      archimateElement="archimate:Stakeholder ../../motivation/3fa2f532.xml#3fa2f532">
     <bounds
-        x="33"
-        y="468"
-        width="185"
-        height="114"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="f3248b72"
-      textAlignment="1"
-      content="Similar to note to left. 'Manage Infrastructure Capacity' to be broken out.">
-    <bounds
-        x="267"
-        y="468"
-        width="185"
-        height="114"/>
+        x="840"
+        y="432"
+        width="200"
+        height="80"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="bbb1121b"
+        source="#72e16c62"
+        target="#73888bb7"
+        relationship="archimate:AssociationRelationship ../../relations/5e3eb4a9.xml#5e3eb4a9">
+      <bendpoints
+          startX="-64"
+          startY="92"
+          endX="524"
+          endY="-52"/>
+      <bendpoints
+          startX="-568"
+          startY="92"
+          endX="20"
+          endY="-52"/>
+    </sourceConnections>
   </children>
 </archimate:ArchimateDiagramModel>
