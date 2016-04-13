@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="9b0b3642"
+    name="Qualification Matrix"
+    documentation="Summary of structured qualifications that refer to qualification catalogs and a rating scale. A qualification matrix is spanned by a primary and secondary dimension that each refer to a qualification catalog. As a third dimension, each matrix is also uniquely assigned to a scale that allows the qualifications to be rated (for example, basic knowledge, advanced, expert, or present/absent).&#xD;&#xA;&#xD;&#xA;http://help.sap.com/saphelp_mrs70_nw/helpdata/en/45/c1e4e6b98b47f2e10000000a114a6b/content.htm?frameset=/en/45/c1e4e3b98b47f2e10000000a114a6b/frameset.htm&amp;current_toc=/en/15/b399780a2b4c02be7f069c7525034c/plain.htm&amp;node_id=12&amp;show_children=false"/>

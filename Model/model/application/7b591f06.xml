@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="7b591f06"
+    name="Qualification Catalog"
+    documentation="Structured list of qualifications that are of interest to the company. A qualification catalog can be organized hierarchically and used in several qualification matrixes.&#xD;&#xA;&#xD;&#xA;http://help.sap.com/saphelp_mrs70_nw/helpdata/en/45/c1e4e3b98b47f2e10000000a114a6b/content.htm?frameset=/en/45/c1e4edb98b47f2e10000000a114a6b/frameset.htm&amp;current_toc=/en/15/b399780a2b4c02be7f069c7525034c/plain.htm&amp;node_id=8&amp;show_children=false"/>
