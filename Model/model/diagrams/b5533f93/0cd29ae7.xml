@@ -350,10 +350,15 @@
         target="#a3fc7050"
         relationship="archimate:UsedByRelationship ../../relations/29363caa.xml#29363caa">
       <bendpoints
-          startX="115"
-          startY="-268"
-          endX="-216"
-          endY="247"/>
+          startX="228"
+          startY="-127"
+          endX="-108"
+          endY="390"/>
+      <bendpoints
+          startX="228"
+          startY="-343"
+          endX="-108"
+          endY="174"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"

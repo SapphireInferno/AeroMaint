@@ -154,10 +154,15 @@
         target="#d522bf91"
         relationship="archimate:FlowRelationship ../../relations/1ae5f956.xml#1ae5f956">
       <bendpoints
+          startX="-64"
+          startY="68"
+          endX="308"
+          endY="-64"/>
+      <bendpoints
           startX="-220"
-          startY="104"
+          startY="128"
           endX="152"
-          endY="-28"/>
+          endY="-4"/>
     </sourceConnections>
   </children>
   <children
@@ -272,10 +277,15 @@
         target="#67327f25"
         relationship="archimate:FlowRelationship ../../relations/cd06f84d.xml#cd06f84d">
       <bendpoints
+          startX="68"
+          startY="-64"
+          endX="-304"
+          endY="68"/>
+      <bendpoints
           startX="212"
-          startY="-100"
+          startY="-124"
           endX="-160"
-          endY="32"/>
+          endY="8"/>
     </sourceConnections>
   </children>
   <children

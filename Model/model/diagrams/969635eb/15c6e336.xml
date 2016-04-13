@@ -46,9 +46,10 @@
         target="#b72f652c"
         relationship="archimate:AccessRelationship ../../relations/9c124636.xml#9c124636">
       <bendpoints
-          startY="39"
-          endX="-12"
-          endY="-63"/>
+          startX="11"
+          startY="-87"
+          endX="-144"
+          endY="9"/>
     </sourceConnections>
   </children>
   <children
