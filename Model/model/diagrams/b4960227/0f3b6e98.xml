@@ -2,7 +2,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="0f3b6e98"
     name="3C2 AppView - To-Be - Inability to Perform Weekly Forecasts"
-<<<<<<< HEAD
     viewpoint="16">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -839,6 +838,3 @@
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
-=======
-    viewpoint="16"/>
->>>>>>> 8a6f2c74361648555f38955fca05e153b3fa5138
