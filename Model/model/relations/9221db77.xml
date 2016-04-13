@@ -1,0 +1,5 @@
+<archimate:SpecialisationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="9221db77"
+    source="archimate:DataObject ../application/eda09002.xml#eda09002"
+    target="archimate:DataObject ../application/d11e7534.xml#d11e7534"/>
