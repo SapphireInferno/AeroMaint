@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="93ce6fb2"
-    name="Plan Maintenance (Major)"/>
+    name="Plan Maintenance (Major)"
+    documentation="The lack of demand data affects the major business process &quot;Plan Maintenance&quot;, comprised of 3 main sub-processes: plan squadron operations, plain maintenance (daily) and control maintenance performed by shift. Right now, plan squadron operations are &quot;planned&quot; using Microsoft Ofice documents, outside any system. This process interacts with the daily planned maintenance in order to confirm the aircraft available fo rmissions."/>

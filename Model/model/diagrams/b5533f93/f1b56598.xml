@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f1b56598"
     name="1A Motiv - Subview, Lack of Demand Data"
+    documentation="Lack of Demand Data refers to the limited knowledge of asset demand present in SAP for this customer. The stakeholders (squadron, operations organization and maintenance organization) need the information necessary to minimize mission failures and cancellations due to unavailability of aircraft. To meet these objectives, we need to have inside the system the data about the upcoming missions, the type of aircraft that every mission requires and the maximum rates of use allowed for this aircraft."
     connectionRouterType="2"
     viewpoint="22">
   <children
