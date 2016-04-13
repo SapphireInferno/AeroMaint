@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f3aef8a9"
     name="3A Motiv -Subview, Inability to Perform Weekly Forecasts"
+    documentation="The motivation behind this challenge is to deal with the short term planning of aircraft maintenance. The business objectives of these process are to minimize idle time of labour, maximize use of infraestrcture, reduce maintenance times and minimize mission cancellations. At the same time, planners have to consider the logical constraints of the maintenance process: a limited workforce size and capacity, supply chain management interactions and others. The idea is, by combining all of these elements to schedule precisely maintenance tasks."
     viewpoint="22">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

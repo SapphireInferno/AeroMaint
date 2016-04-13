@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="de0d38a7"
     name="2A Motiv -Subview, Absense of Automated Method to Update Annual Estimates"
-    documentation="To minimize the number of missions cancelled due unavailability of aircraft (business objective) and provide assets to meet required capacity, we need to be able to predict the dates of required maintenance based on different measures of usage, closely related to the concept of &quot;annual estimates&quot;. The more accurate the annual estimates are, the more reliable are the predicted dates of maintenance calculated by the ERP."
+    documentation="To minimize the number of missions cancelled due unavailability of aircraft (business objective) and provide assets to meet required capacity, we need to be able to predict the dates of required maintenance based on different measures of usage, closely related to the concept of &quot;annual estimates&quot;. The more accurate the annual estimates are, the more reliable are the predicted dates of maintenance calculated by the ERP on the long term."
     connectionRouterType="1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
