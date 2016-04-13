@@ -44,7 +44,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a9e3f76f"
       textAlignment="2"
-      targetConnections="#15619f41"
       archimateElement="archimate:ApplicationService ../../application/690fdeb6.xml#690fdeb6">
     <bounds
         x="24"
@@ -74,18 +73,11 @@
         y="180"
         width="120"
         height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="15619f41"
-        source="#c1bc62af"
-        target="#a9e3f76f"
-        relationship="archimate:UsedByRelationship ../../relations/08a90e08.xml#08a90e08"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="44022222"
       textAlignment="2"
-      targetConnections="#1e56429e"
       archimateElement="archimate:ApplicationService ../../application/cbdffea6.xml#cbdffea6">
     <bounds
         x="600"
@@ -184,12 +176,6 @@
           startY="105"
           endY="-90"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1e56429e"
-        source="#3c7085d3"
-        target="#44022222"
-        relationship="archimate:UsedByRelationship ../../relations/386cc99e.xml#386cc99e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -224,7 +210,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4f493831"
       textAlignment="2"
-      targetConnections="#98bcc698"
       archimateElement="archimate:ApplicationService ../../application/f698a2c3.xml#f698a2c3">
     <bounds
         x="768"
@@ -270,17 +255,6 @@
           source="#6604f7f5"
           target="#789a49c5"
           relationship="archimate:AccessRelationship ../../relations/c62224f3.xml#c62224f3"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="98bcc698"
-          source="#6604f7f5"
-          target="#4f493831"
-          relationship="archimate:UsedByRelationship ../../relations/f32db4c3.xml#f32db4c3">
-        <bendpoints
-            startX="198"
-            startY="-3"
-            endY="430"/>
-      </sourceConnections>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
