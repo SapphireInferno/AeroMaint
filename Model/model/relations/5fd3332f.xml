@@ -1,0 +1,5 @@
+<archimate:UsedByRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="5fd3332f"
+    source="archimate:ApplicationService ../application/d70c0a80.xml#d70c0a80"
+    target="archimate:BusinessProcess ../business/7b3056d0.xml#7b3056d0"/>

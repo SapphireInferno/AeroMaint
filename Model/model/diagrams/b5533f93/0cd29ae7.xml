@@ -246,26 +246,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="dc744fa2"
-      textAlignment="2"
-      archimateElement="archimate:BusinessActor ../../business/b0828540.xml#b0828540">
-    <bounds
-        x="498"
-        y="12"
-        width="144"
-        height="60"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="a2fd568f"
-        source="#dc744fa2"
-        target="#6fcdb47d"
-        relationship="archimate:AssignmentRelationship ../../relations/93d947f6.xml#93d947f6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="6fcdb47d"
       textAlignment="2"
-      targetConnections="#a2fd568f #02d89097"
+      targetConnections="#02d89097"
       archimateElement="archimate:BusinessProcess ../../business/93ce6fb2.xml#93ce6fb2">
     <bounds
         x="498"

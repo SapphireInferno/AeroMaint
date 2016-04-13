@@ -221,7 +221,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7947d041"
       textAlignment="2"
-      targetConnections="#2626de11"
       archimateElement="archimate:ApplicationService ../../application/f698a2c3.xml#f698a2c3">
     <bounds
         x="768"
@@ -274,17 +273,6 @@
           source="#f8b5fc34"
           target="#9623f94f"
           relationship="archimate:AccessRelationship ../../relations/c62224f3.xml#c62224f3"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="2626de11"
-          source="#f8b5fc34"
-          target="#7947d041"
-          relationship="archimate:UsedByRelationship ../../relations/48a977f2.xml#48a977f2">
-        <bendpoints
-            startX="198"
-            startY="-3"
-            endY="419"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="d6f6b3e5"
