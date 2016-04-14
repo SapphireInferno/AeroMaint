@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="267bb789"
-    name="Scheduler Workplace"/>
+    name="Scheduler Workplace"
+    documentation="Graphical screen areas and tools that the resource planner can use to plan tasks and employee assignments and to monitor their execution.&#xD;&#xA;&#xD;&#xA;http://help.sap.com/saphelp_mrs800_nw/helpdata/en/4a/76f53ed9c061a1e10000000a421937/content.htm?frameset=/en/eb/a8984880cb4d7ab8a5f5be0b3af3fa/frameset.htm&amp;current_toc=/en/15/b399780a2b4c02be7f069c7525034c/plain.htm&amp;node_id=41&amp;show_children=false"/>

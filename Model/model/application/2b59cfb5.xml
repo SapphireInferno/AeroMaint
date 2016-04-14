@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="2b59cfb5"
+    name="Progress Monitoring"
+    documentation="This function compares the execution of the assignments with planning. This enables the resource planner to react to any deviations early.&#xD;&#xA;&#xD;&#xA;http://help.sap.com/saphelp_mrs800_nw/helpdata/en/4a/76f53ed9c061a1e10000000a421937/content.htm?frameset=/en/4a/7885f3d79572dee10000000a42189b/frameset.htm&amp;current_toc=/en/15/b399780a2b4c02be7f069c7525034c/plain.htm&amp;node_id=130&amp;show_children=true#jump41&#xD;&#xA;"/>
