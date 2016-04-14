@@ -1,6 +1,0 @@
-<archimate:TriggeringRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="f34fe97e"
-    name="Provides Demand"
-    source="archimate:BusinessProcess ../business/8f4d822f.xml#8f4d822f"
-    target="archimate:BusinessFunction ../business/2fa79f57.xml#2fa79f57"/>
