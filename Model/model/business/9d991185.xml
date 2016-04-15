@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="9d991185"
-    name="Annual Usage Authorization"/>
+    name="Annual Usage Authorization"
+    documentation="Business object to represent the authorized maintenance plan for a period of time. In the current process, it is realized by the Annual Operating Plan Word document. In the proposed process, it will be an electronic file (e.gr., a database table), which will store this information in such a way that it will be accessible to all the people involved in this process."/>

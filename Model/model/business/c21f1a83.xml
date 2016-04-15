@@ -1,4 +1,5 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="c21f1a83"
-    name="Confirm Aircraft Available for Missions"/>
+    name="Confirm Aircraft Available for Missions"
+    documentation="Business interaction between the processes &quot;plan squadron operations&quot; and &quot;plan maintenance (daily)&quot; that allows to know if an aircraft is ready for a mission or if it is going through maintenance at any given time."/>

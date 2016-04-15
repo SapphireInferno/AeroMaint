@@ -1,4 +1,5 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="e07051f1"
-    name="Coordinate Facility Usage"/>
+    name="Coordinate Facility Usage"
+    documentation="Every business has limited facilities, which are constraints to assign the maintenance tasks. For instance, a task could require a specific environment, provided only by one of the facilities. If more than one aircraft requires this maintenance taks, then there will be a queue of aircraft waiting to use that facility. The objective of &quot;coordinate facility usage&quot; is to allocate the tasks in such a way that the queue length is minimized."/>

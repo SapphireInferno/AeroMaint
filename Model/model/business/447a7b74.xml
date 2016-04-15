@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="447a7b74"
-    name="Daily Maintenance Task Allocations"/>
+    name="Daily Maintenance Task Allocations"
+    documentation="Business object to represent the allocated maintenance tasks for every work day. In the current situation, this allocations are saved as an Excel file."/>

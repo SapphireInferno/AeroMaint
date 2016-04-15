@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f23ae96c"
-    name="Maintenance Planner"/>
+    name="Maintenance Planner"
+    documentation="Person in charge of plan the maintenance tasks for the day based on the aircraft availability requirements and shifts."/>

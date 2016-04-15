@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="a2c0fa1e"
     name="Allocate Maintenance Tasks to Shift"
-    documentation="Business interaction between the processes &quot;plan squadron operations&quot; and &quot;plan maintenance (daily)&quot; that allows to know if an aircraft is ready for a mission or if it is going through maintenance at any given time."/>
+    documentation="Business interaction between the processes &quot;plan maintenance (daily)&quot; and &quot;control maintenance performed by shift&quot; and it refers to the action of assigning the tasks from the business plan to the shifts in charge of performing those tasks."/>

@@ -1,4 +1,5 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="aa8f74fe"
-    name="Daily Maintenance Task Allocations .xls file"/>
+    name="Daily Maintenance Task Allocations .xls file"
+    documentation="Excel spreadsheet that contains the allocated maintenance tasks for every work day."/>

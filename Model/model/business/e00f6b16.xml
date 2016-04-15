@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="e00f6b16"
-    name="Installation (Site) Facilities Coordinator"/>
+    name="Installation (Site) Facilities Coordinator"
+    documentation="Person in charge of coordinate the usage of the facilities to perform maintenance tasks."/>

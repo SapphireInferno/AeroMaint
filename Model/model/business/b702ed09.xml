@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="b702ed09"
-    name="Asset Group Engineering Manager"/>
+    name="Asset Group Engineering Manager"
+    documentation="Separate entity responsible for the asset group."/>

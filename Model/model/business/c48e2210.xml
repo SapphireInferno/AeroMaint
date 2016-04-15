@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="c48e2210"
-    name="Maintenance Shift Supervisor"/>
+    name="Maintenance Shift Supervisor"
+    documentation="Person that oversees the work done by the shift team."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="5b312eda"
-    name="Control Participation of Shift Personnel in Non-Maintenance Activities"/>
+    name="Control Participation of Shift Personnel in Non-Maintenance Activities"
+    documentation="It refers to keeping records of the time dedicated by the personnel to activities not related to maintenance."/>
