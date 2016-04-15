@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="1835dfb0"
-    name="Aircraft Maintenance Manager"/>
+    name="Aircraft Maintenance Manager"
+    documentation="Person in charge of ensure that the maintenance process is working properly. He is in charge of maintaining assets for the Squadron Operations Planner and overseeing the work of the Maintenance Planner."/>
