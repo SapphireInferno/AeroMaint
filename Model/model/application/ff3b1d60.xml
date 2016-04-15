@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="ff3b1d60"
-    name="Characteristic"/>
+    name="Characteristic"
+    documentation="In the characteristic maintenance, you define product attributes, which are known as characteristics, for your configurable product. You can assign various parameters.&#xD;&#xA;Characteristics can be maintained locally or globally.&#xD;&#xA;Global and local characteristics&#xD;&#xA;As a rule, you assign a characteristic directly to a product or class. You are therefore at the local level of characteristic maintenance.&#xD;&#xA;At the same time, each characteristic is assigned to the product model. It is therefore available for the complete product model, and can be assigned to other products and classes within the model. The product model level is the global level. You can maintain characteristics at a global level by choosing Change Display Mode and the tab page Global Characteristics in the initial screen."/>
