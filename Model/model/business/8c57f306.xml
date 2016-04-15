@@ -1,4 +1,5 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="8c57f306"
-    name="Training Booking (Various Formats)"/>
+    name="Training Booking (Various Formats)"
+    documentation="A document that contains the scheduled training sessions."/>

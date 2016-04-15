@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="7ce75f70"
-    name="Shift Labour Capacity Report"/>
+    name="Shift Labour Capacity Report"
+    documentation="Detailed report of the resources available for future maintenance tasks assignments."/>

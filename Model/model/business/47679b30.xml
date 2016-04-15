@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="47679b30"
-    name="Shift Report"/>
+    name="Shift Report"
+    documentation="A list of the work done, challenges faced and delayed tasks at the end of the shift."/>
