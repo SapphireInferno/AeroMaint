@@ -21,7 +21,7 @@
 	<script>
 	var loc = window.location.toString(),
     params = loc.split('?')[1],
-    iframe = document.getElementById('view');
+    iframe = document.getElementById('mainframe');
 
 	iframe.src = '/views/' + params + '.html';​​​​​​​​​​​​​​​​<
 	</script>
@@ -42,7 +42,7 @@
 		</nav>
 	</div>
 
-	<iframe name="view" class="ui-layout-center" src="views/model.html" scrolling="no"></iframe>
+	<iframe id="mainframe" name="view" class="ui-layout-center" src="views/model.html" scrolling="no"></iframe>
 
 	<div class="ui-layout-west">
 		<iframe name="element" class="ui-layout-south" src="elements/empty-element.html"  scrolling="no"></iframe>
