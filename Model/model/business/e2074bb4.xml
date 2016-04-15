@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="e2074bb4"
-    name="Maintenance Task"/>
+    name="Maintenance Task"
+    documentation="Maintenance tasks describe individual maintenance activities which must be performed within a company."/>

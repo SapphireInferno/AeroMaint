@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="47e85fb1"
-    name="Maintenance Support Staff"/>
+    name="Maintenance Support Staff"
+    documentation="This actor coordinates the tools and support equipment and also updates the maintenance organization data."/>

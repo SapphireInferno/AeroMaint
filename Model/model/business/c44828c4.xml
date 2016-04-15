@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="c44828c4"
-    name="Maintenance Technician"/>
+    name="Maintenance Technician"
+    documentation="The maintenance technician processes maintenance and service notifications, maintenance and service orders, and maintenance tasks and confirms completed work in the system. He or she evaluates maintenance data and displays reports."/>

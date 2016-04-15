@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="5d92b8fc"
     name="Missions Plan (Forecast)"
-    documentation="This is a table in Microsoft Excel"/>
+    documentation="Business object that represents a list of missions forecasted for a given timeframe."/>

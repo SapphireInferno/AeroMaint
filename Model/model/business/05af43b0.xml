@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="05af43b0"
-    name="Non-Maintenance Task (Appointment, Training, Leave) "/>
+    name="Non-Maintenance Task (Appointment, Training, Leave) "
+    documentation="Any task that has to be performed by Maintenance personnel whose objective is not keeping the aircraft continuous operation. For instance, new shift members training tasks, or filing paperwork when one of the employees leaves the organization."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="3d530ace"
-    name="Perform Non-Maintenance Task"/>
+    name="Perform Non-Maintenance Task"
+    documentation="The action of performing tasks whose objective is not keeping the aircraft continuous operation. For instance, new shift members training tasks, or filing paperwork when one of the employees leaves the organization."/>
