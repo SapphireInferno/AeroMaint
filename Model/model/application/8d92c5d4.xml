@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="8d92c5d4"
     name="Annual Estimate"
-    documentation="D."/>
+    documentation="This is a concept of &quot;Performance-Based Scheduling&quot;.&#xD;&#xA;If we create a performance-based maintenance cycle (for example, ‘Every 500 operating hours’), the planned date is calculated based on the estimated annual performance of the counter specified in the maintenance plan and the current counter reading.&#xD;&#xA;If the counter reading at which maintenance should be performed has not yet been reached, the planned date is calculated for each scheduling operation based on the current counter reading and the estimated annual performance.&#xD;&#xA;Example:&#xD;&#xA;The estimated annual performance of a car is 7,456.45 mi, that is, 621.37 mi per month.&#xD;&#xA;If, owing to company holidays, the car travels less than the estimated 621.37 mi in a month, the system reacts to this deviation. When scheduling is next performed, the calculated planned date is moved accordingly to a later date."/>

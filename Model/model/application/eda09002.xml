@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="eda09002"
-    name="Capacity (Infrastructure)"/>
+    name="Capacity (Infrastructure)"
+    documentation="Information about the physical constraints of the facilities available for aircraft maintenance."/>

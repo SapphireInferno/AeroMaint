@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="d1f85734"
-    name="BAPI"/>
+    name="BAPI"
+    documentation="Business Application Programming Interface"/>

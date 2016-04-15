@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="d11e7534"
-    name="Capacity"/>
+    name="Capacity"
+    documentation="Stores the maximum amount of work that a resource can manage."/>
