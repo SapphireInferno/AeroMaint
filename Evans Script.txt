@@ -1,11 +1,20 @@
 	<!-- EVAN'S CODE TO LAUNCH VIEW PASSED IN HYPERLINK -->
-	<script>
-	var loc = window.location.toString(),
-    params = loc.split('?')[1],
-    iframe = document.getElementById('mainframe');
+	<script type="text/javascript">
 
-	iframe.src = '/views/' + params + '.html';????????????????<
+	$(function() {
+
+	var loc = window.location.toString(),
+	params = loc.split('&')[1],
+	  iframe = document.getElementById('mainframe');
+	alert(iframe.src); 
+	iframe.src = 'views/' + params + '.html';
+	alert(iframe.src); 
+
+	});
 	</script>
+
+	<iframe id="mainframe" name="view" class="ui-layout-center" src="views/model.html" scrolling="no"></iframe>
+	
 
 
 	<iframe id="mainframe" name="view" class="ui-layout-center" src="views/model.html" scrolling="no"></iframe>
