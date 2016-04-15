@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f3ba108a"
-    name="Plan Aircraft Type Utilization"/>
+    name="Plan Aircraft Type Utilization"
+    documentation="The process of planning the availability of aircraft and usage rates in order to meet the demand and optimize the maintenance times."/>
