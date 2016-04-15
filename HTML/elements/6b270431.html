@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>AeroMaint</title>
+	<title></title>
 
 	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
 	<script type="text/javascript" src="../lib/jquery/js/jquery-1.11.2.min.js"></script>
@@ -19,7 +19,9 @@
 <body>
 	<div class="panel panel-default root-panel">
 		<div class="panel-heading root-panel-heading">
-			<b>AeroMaint</b>
+			<b></b>
+			(<span class="i18n-elementtype-AssociationRelationship"></span>)
+			<a class="glyphicon glyphicon-info-sign" id="hint-AssociationRelationship" target="hint"></a>
 		</div>
 		<div class="panel-body root-panel-body">
 			<div role="tabpanel">
@@ -32,16 +34,17 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none">This model represents the current and proposed state of the maintenance process for critical assets subject to uncertain demand. This kind of assets has the following characteristics:
-- Assets used to deliver a service that has a high penalty for unmet demand
-- They require a large amount of preventive maintenance
-After an analysis of the current situation, we identified 5 main challenges that need to be addressed in order to achieve the business objectives:
-1. Lack of Demand Data
-2. Absence of Automated Method to Update Annual Estimates
-3. Inability to Perform Weekly Forecasts
-4. Bad User Experience for Maintenance Shift Supervisor
-5. Absence of Single Point of Data Aggregation to Aid in Decision Making
-We modeled these challenges using ArchiMate, an open and independent modelling language for enterprise architecture that is supported by different tool vendors and consulting firms and organized the diagrams ("views") in folders that can be accesed from the side menu. For every challenge, we present 5 views: a) Motivation view, which presents the business objectives that need to be achieved by the proposed state, b) Business As-Is View, refers to a graphical representation of the current situation for the business layer, c) Business To-Be View, is our proposed business layer for every challenge, d) Application As-Is View, presents the current application components and services that support (b) and, finally, e) Application To-Be View, presents the recommended improvements at the application layer to accomplish the desired state from (c).</textarea>
+							<br>
+							<b class="i18n-relation-source"></b>
+								<a href="../elements/6f948e1e.html" target="element">
+									Controlled Usage Rate 
+								</a> <br>
+							<b class="i18n-relation-target"></b>
+								<a href="../elements/ea437e65.html" target="element">
+									Support to Flight Operations
+								</a> <br>
+							<br>
+						<textarea id="docsrc" style="display:none"></textarea>
 						<div id="doctgt" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
