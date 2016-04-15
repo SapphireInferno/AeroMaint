@@ -2,7 +2,10 @@
 	<script>
 	var loc = window.location.toString(),
     params = loc.split('?')[1],
-    iframe = document.getElementById('view');
+    iframe = document.getElementById('mainframe');
 
-	iframe.src = iframe.src + '?' + params;????????????????<
+	iframe.src = '/views/' + params + '.html';????????????????<
 	</script>
+
+
+	<iframe id="mainframe" name="view" class="ui-layout-center" src="views/model.html" scrolling="no"></iframe>
