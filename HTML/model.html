@@ -17,14 +17,7 @@
 	<link type="text/css" rel="stylesheet" href="css/model.css">
 	<link type="text/css" rel="stylesheet" href="css/i18n.css">
 	<script type="text/javascript" src="js/model.js"></script>
-	<!-- EVAN'S CODE TO LAUNCH VIEW PASSED IN HYPERLINK -->
-	<script type="text/javascript">
-	var loc = window.location.toString(),
-    params = loc.split('?')[1],
-    iframe = document.getElementById('mainframe');
-	iframe.src = 'views/' + params + '.html';​​​​​​​​​​​​​​​​
-	</script>
-	</head>
+</head>
 
 <body>
 	<!-- "ui-layout-north" class set (topbar) -->
@@ -43,6 +36,14 @@
 
 	<iframe id="mainframe" name="view" class="ui-layout-center" src="views/model.html" scrolling="no"></iframe>
 
+	<!-- EVAN'S CODE TO LAUNCH VIEW PASSED IN HYPERLINK -->
+	<script type="text/javascript">
+	var loc = window.location.toString(),
+    params = loc.split('?')[1],
+    iframe = document.getElementById('mainframe');
+	iframe.src = 'views/' + params + '.html';​​​​​​​​​​​​​​​​
+	</script>
+	
 	<div class="ui-layout-west">
 		<iframe name="element" class="ui-layout-south" src="elements/empty-element.html"  scrolling="no"></iframe>
 		<div class="ui-layout-center">
