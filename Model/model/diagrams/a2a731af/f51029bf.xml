@@ -28,18 +28,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="2af6ecc7"
-      textAlignment="2"
-      targetConnections="#43c7c4d0"
-      archimateElement="archimate:DataObject ../../application/c4702729.xml#c4702729">
-    <bounds
-        x="281"
-        y="468"
-        width="200"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="f2121082"
       textAlignment="2"
       archimateElement="archimate:ApplicationComponent ../../application/9d7af710.xml#9d7af710">
@@ -48,12 +36,6 @@
         y="300"
         width="200"
         height="80"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="43c7c4d0"
-        source="#f2121082"
-        target="#2af6ecc7"
-        relationship="archimate:AccessRelationship ../../relations/1e505c0d.xml#1e505c0d"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="c73d46cd"
