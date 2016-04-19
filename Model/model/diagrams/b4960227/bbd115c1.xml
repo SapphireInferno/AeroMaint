@@ -316,10 +316,10 @@
           target="#ca1f600b"
           relationship="archimate:RealisationRelationship ../../relations/0fa95496.xml#0fa95496">
         <bendpoints
-            startX="-54"
-            startY="-281"
+            startX="-42"
+            startY="-231"
             endX="-84"
-            endY="142"/>
+            endY="201"/>
         <bendpoints
             startX="30"
             startY="-281"
@@ -357,14 +357,14 @@
         relationship="archimate:AccessRelationship ../../relations/9197e6ef.xml#9197e6ef">
       <bendpoints
           startX="23"
-          startY="564"
+          startY="576"
           endX="816"
-          endY="33"/>
+          endY="45"/>
       <bendpoints
           startX="-757"
-          startY="564"
+          startY="576"
           endX="36"
-          endY="33"/>
+          endY="45"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -431,9 +431,8 @@
         target="#94ae8f46"
         relationship="archimate:AccessRelationship ../../relations/4b0eb430.xml#4b0eb430">
       <bendpoints
-          startY="636"
-          endX="-180"
-          endY="12"/>
+          startY="624"
+          endX="-180"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -526,7 +525,7 @@
         archimateElement="archimate:DataObject ../../application/dd986727.xml#dd986727">
       <bounds
           x="12"
-          y="132"
+          y="144"
           width="121"
           height="49"/>
       <sourceConnections
@@ -537,8 +536,8 @@
           relationship="archimate:AssociationRelationship ../../relations/9bb93f74.xml#9bb93f74">
         <bendpoints
             startX="996"
-            startY="-12"
-            endY="267"/>
+            endX="-1"
+            endY="278"/>
       </sourceConnections>
     </children>
   </children>
@@ -564,20 +563,20 @@
           endX="984"
           endY="-351"/>
       <bendpoints
-          startX="-136"
-          startY="68"
-          endX="864"
-          endY="-351"/>
+          startX="-147"
+          startY="156"
+          endX="852"
+          endY="-375"/>
       <bendpoints
           startX="-147"
-          startY="576"
+          startY="588"
           endX="852"
-          endY="45"/>
+          endY="57"/>
       <bendpoints
           startX="-975"
-          startY="576"
+          startY="588"
           endX="24"
-          endY="45"/>
+          endY="57"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
