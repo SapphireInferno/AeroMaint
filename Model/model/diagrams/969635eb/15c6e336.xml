@@ -161,18 +161,11 @@
         source="#a3ee8a74"
         target="#8e6d480d"
         relationship="archimate:CompositionRelationship ../../relations/d36742de.xml#d36742de"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c92e732f"
-        source="#a3ee8a74"
-        target="#cc46c3dd"
-        relationship="archimate:RealisationRelationship ../../relations/0fa95496.xml#0fa95496"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cc46c3dd"
       textAlignment="2"
-      targetConnections="#c92e732f"
       archimateElement="archimate:ApplicationService ../../application/af4b85f3.xml#af4b85f3">
     <bounds
         x="180"
