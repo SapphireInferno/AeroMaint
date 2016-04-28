@@ -1903,6 +1903,15 @@
 					background: #df93b8;
 				}
 
+            .icon.circle.fa-linkedin-square {
+				background: #0077b5
+				color: #fff;
+			}
+
+				.icon.circle.fa-linkedin-square:hover {
+					background: #7fb7d2
+				}
+
 		.icon.featured {
 			cursor: default;
 			display: block;
