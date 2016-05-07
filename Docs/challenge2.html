@@ -44,7 +44,7 @@
 
 					<header class="special container">
 						<span class="icon fa-clock-o"></span>
-						<h2><strong>Automated</strong> updates of Measurement Point Annual Estimates</h2>
+						<h2><strong>Automated</strong> update of Measurement Point Annual Estimates</h2>
 						<p>Challenge Two</p>
 					</header>
 
@@ -54,13 +54,13 @@
 							<!-- Content -->
 								<div class="content">
 									<section>
-										<a href="#" class="image featured"><img src="images/aircraft_hangar.jpg" alt="" /></a>
+										<a href="#" class="image featured"><img src="images/update_ae.PNG" alt="" /></a>
 										<header>
-											<h3>Dolore Amet Consequat</h3>
+											<h3>The Importance of Annual Estimates</h3>
 										</header>
-										<p>We'll write up a summary of our solution here</p>
-										<p>Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique. Sed id sem et massa ornare pellentesque. Maecenas pharetra porta accumsan. </p>
-										<p>In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus. Suspendisse euismod lorem eget lacinia fringilla. Sed sed felis justo. Nunc sodales elit in laoreet aliquam. Nam gravida, nisl sit amet iaculis porttitor, risus nisi rutrum metus, non hendrerit ipsum arcu tristique est.</p>
+										<p>In Performance-Based Maintenance, we monitor some variables or measurement points. Every measurement point has an <em>annual estimate</em>, which is used by SAP Enterprise Asset Management (EAM) to schedule maintenance tasks.</p>
+                                        <p>Updating annual estimates is a tedious process, since hundreds or even thousands of annual estimates need to be updated one by one. Nobody has the time -or the will, for that matter- to do it and, consequently, this important task has not been done in a while, leading to innacurate maintenance scheduling.</p>
+                                        <p>To simplify updating annual estimates, our solution is to develop a custom application to massively update key measurement points based on aircraft's technical structure hierarchies (functional locations, equipment and measurement points).</p>
 									</section>
 								</div>
 
@@ -75,10 +75,10 @@
 										<header>
 											<h3>Motivation Layer</h3>
 										</header>
-										<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+										<p>The more accurate the annual estimates are, the more reliable are the predicted dates of maintenance calculated by the ERP on the long term. Accurate scheduling contributes to better aircraft availability.</p>
 										<footer>
 											<ul class="buttons">
-												<li><a href="#" class="button small">To model:</a></li>
+												<li><a href="../HTML/model.html?de0d38a7" target="_blank" class="button small">Model</a></li>
 											</ul>
 										</footer>
 									</section>
@@ -90,10 +90,11 @@
 										<header>
 											<h3>Business Layer</h3>
 										</header>
-										<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+										<p>Demand data (challenge 1) and annual estimates are combined to plan maintenance, authorize the maximum aircraft utilization by type for a year and forecast individual aircraft usage.</p>
 										<footer>
 											<ul class="buttons">
-												<li><a href="#" class="button small">To model:</a></li>
+												<li><a href="../HTML/model.html?9a7e0d6b" target="_blank" class="button small"><span class="icon fa-arrow-down"></span> As-Is Model</a></li>
+												<li><a href="../HTML/model.html?7bb58d07" target="_blank" class="button small"><span class="icon fa-flag-checkered"></span> To-Be Model</a></li>
 											</ul>
 										</footer>
 									</section>
@@ -105,10 +106,11 @@
 										<header>
 											<h3>Application Layer</h3>
 										</header>
-										<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+										<p>Custom transactions and tables to be developed to maintain aircraft specific usage rates per period at the master equipment level. Update en-mass calling the TABLE_IMPTT_UPDATE SAP function.</p>
 										<footer>
 											<ul class="buttons">
-												<li><a href="#" class="button small">To model:</a></li>
+												<li><a href="../HTML/model.html?15c6e336" target="_blank" class="button small"><span class="icon fa-arrow-down"></span> As-Is Model</a></li>
+												<li><a href="../HTML/model.html?bfc7fe82" target="_blank" class="button small"><span class="icon fa-flag-checkered"></span> To-Be Model</a></li>
 											</ul>
 										</footer>
 									</section>
