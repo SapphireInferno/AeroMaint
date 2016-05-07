@@ -164,8 +164,8 @@
       targetConnections="#ffaaf3d3"
       archimateElement="archimate:Goal ../../motivation/73db1dff.xml#73db1dff">
     <bounds
-        x="36"
-        y="271"
+        x="72"
+        y="289"
         width="200"
         height="80"/>
   </children>

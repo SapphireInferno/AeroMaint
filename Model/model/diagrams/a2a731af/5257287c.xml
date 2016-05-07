@@ -87,6 +87,12 @@
         source="#161694cc"
         target="#fb9b9bf5"
         relationship="archimate:AssignmentRelationship ../../relations/b8fa04d0.xml#b8fa04d0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="08c465be"
+        source="#161694cc"
+        target="#85f45534"
+        relationship="archimate:AssignmentRelationship ../../relations/40947c53.xml#40947c53"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -116,12 +122,18 @@
         source="#c6d96762"
         target="#606d1eb8"
         relationship="archimate:AssignmentRelationship ../../relations/1796f643.xml#1796f643"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="d9e7e47c"
+        source="#c6d96762"
+        target="#85f45534"
+        relationship="archimate:AssignmentRelationship ../../relations/4149caac.xml#4149caac"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="606d1eb8"
       textAlignment="2"
-      targetConnections="#7d495079 #7954ac91"
+      targetConnections="#7d495079 #7954ac91 #b10d8e69"
       archimateElement="archimate:BusinessProcess ../../business/ca6151bb.xml#ca6151bb">
     <bounds
         x="1147"
@@ -232,5 +244,23 @@
         source="#b536a62b"
         target="#480f2f25"
         relationship="archimate:UsedByRelationship ../../relations/02797925.xml#02797925"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="85f45534"
+      textAlignment="2"
+      targetConnections="#08c465be #d9e7e47c"
+      archimateElement="archimate:BusinessInteraction ../../business/a2c0fa1e.xml#a2c0fa1e">
+    <bounds
+        x="624"
+        y="588"
+        width="200"
+        height="80"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b10d8e69"
+        source="#85f45534"
+        target="#606d1eb8"
+        relationship="archimate:TriggeringRelationship ../../relations/283aee91.xml#283aee91"/>
   </children>
 </archimate:ArchimateDiagramModel>
